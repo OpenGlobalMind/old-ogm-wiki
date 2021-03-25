@@ -2,6 +2,8 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/L15syR0DQq61eQJ9wTqVHg/badge)](https://hackmd.io/L15syR0DQq61eQJ9wTqVHg)
 
+notes by [[@Peter Kaminski]], (add yourself here)
+
 
 ## Topics
 - collective intelligence
@@ -34,7 +36,7 @@ John
 
 George
 - collective intelligence is a myth
-	- varying degrees of intellectual efficacy / efficieny
+	- varying degrees of intellectual efficacy / efficiency
 	- we invented a lot of kinds of "intelligence"
 	- vs. [[mind skills]] mastering a cluster of mental skills
 		- have just done more practice than other people
@@ -44,4 +46,13 @@ George
 	- "radio is better than television because the pictures are better"
 	- jerry: audio carries ~80% of the emotional valence
 	- "audio gestures" - [[body language]]
-	- 
+
+Trae
+- syntropic (...)
+- [[FairShare Commons]]
+- gratitudes:
+    - jay golden
+    - scott moehring
+    - ken homer
+
+
