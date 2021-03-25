@@ -1,5 +1,8 @@
 # OGM Thursday, 2021-03-25
 
+[![hackmd-github-sync-badge](https://hackmd.io/L15syR0DQq61eQJ9wTqVHg/badge)](https://hackmd.io/L15syR0DQq61eQJ9wTqVHg)
+
+
 ## Topics
 - collective intelligence
 
