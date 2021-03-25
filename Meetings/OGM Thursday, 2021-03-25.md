@@ -1,12 +1,19 @@
 # OGM Thursday, 2021-03-25
 
-[![hackmd-github-sync-badge](https://hackmd.io/L15syR0DQq61eQJ9wTqVHg/badge)](https://hackmd.io/L15syR0DQq61eQJ9wTqVHg)
-
-notes by [[@Peter Kaminski]], (add yourself here)
+notes by [[@Peter Kaminski]]
 
 
 ## Topics
 - collective intelligence
+    - Klaus: vs. consciuousness ([[Jan Smuts]])
+
+## Pete's Reflections on Using Mmhmm for Call
+- was hampered by sharing one window instead whole screen (didn't want zoom video feedback, so didn't share whole screen)
+- hackmd on one page is nice, but doesn't show other wiki pages
+- it made raising hand and doing jazz hands more challenging
+- i had to turn off video mirroring, which i low-key don't like :-)
+- on my computer at least, it looks like there is a small video lag for my picture
+- not sure how good the resolution of the screenshare was
 
 ## People
 
@@ -48,11 +55,36 @@ George
 	- "audio gestures" - [[body language]]
 
 Trae
-- syntropic (...)
+- syntropic world - https://syntropic.world/masterclass/
 - [[FairShare Commons]]
 - gratitudes:
     - jay golden
     - scott moehring
     - ken homer
+
+Kevin
+- how to interface with relative who's part of an antivax Waldorf school
+    - rose quartz = embodier of love
+    - jerry: [“Your Ideas Are Not Your Identity”: Adam Grant on How to Get Better at Changing Your Mind](https://behavioralscientist.org/your-ideas-are-not-your-identity-adam-grant-on-how-to-get-better-at-changing-your-mind/) (Evan Nesterak, Behavioral Scientist)
+
+Marc
+- value creation processes, on knowledge, natural resources, for a couple tribes/nations in Brazil
+
+Michael
+- Jim Fournier
+
+Klaus
+- thinking and working in sectors, rather than thinking of system
+- consciousness (vs. collective intelligence)
+    - are animals conscious? plants? is there an overarching consciousness
+
+Gil
+- side channel conversations (missing in clubhouse)
+- droping the word "nature" (natural resources, natural capital)
+    - (from pete, tweet about dropping the word "women's" from sports, or having to add "men's", either way)
+
+## Stuff to Look Up
+
+- (pete) saw a twitter thread about "intelligence" in humans, that it's fractal and includes your whole body, not just your brain.
 
 
