@@ -19,7 +19,7 @@ notes by [[@Peter Kaminski]]
 
 Mike
 - wedding
-- [[pairagraph]] for debate
+- [[Pairagraph]] for debate
 
 Ken
 - [[measuring collective intelligence]]

@@ -1,7 +1,8 @@
 # Finalizing Lionsberg+OGM MoU
-*dates subject to change*
 
 ## Creating and Sharing MoU
+
+*timeline sketch, dates subject to change*
 
 - mapping on [Miro board](https://miro.com/app/board/o9J_lORD1MI=/)
     - created on 3/21
@@ -13,6 +14,17 @@
 - start Operationalization Plan (3/28)
 - finalize [[Communicating Lionsberg Process to OGM]] plan (tbd)
 - communicate with OGM members at large (tbd)
+
+## Due Diligence Around Steward Ownership
+- do a short tour of other possible models
+- does a 501(c)3 create a bunch of paperwork, more than we can do?
+
+## Due Diligence Around Lionsberg
+
+## Agreeing Collectively to Take Responsibility for MoU Commitments 
+
+## Finalize and Sign MoU
+- meet with Lionsberg General Counsel
 - sign document with Lionsberg (4/6)
 
 ## Follow-On Action Items / Plans
