@@ -1,10 +1,11 @@
 # OGM Stewards Jam Sesh, 2021-03-30
+
+Note: if you're viewing/editing this on HackMD, the double-bracket links to other wiki pages won't be active. Ping Pete about connecting your Obsidian to OGM Wiki.
+
 ## Before The Meeting
 - Jerry: integrate edits into MoU (add 'tktk' for places to review / expand)
 - All: read the updated [[MoU]] when available
 - Jerry, Charles: asynchronously update [[OGM Planning Timeline (Miro)]]
-- Pete: connect this page to HackMD
-- Pete: redirect mattermost stuff
 
 ## Agenda
 - Recap moving work back into open Stewards channels (Mattermost, OGM Wiki)
