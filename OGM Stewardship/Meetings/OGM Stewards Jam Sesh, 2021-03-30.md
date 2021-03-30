@@ -17,6 +17,12 @@ Note: if you're viewing/editing this on HackMD, the double-bracket links to othe
 - What is our collective bat signal?
 	- how can we schedule more time for work and decisions?
 	- see [[OGM Stewardship Jerry + Pete, 2021-03-28]], "Quorum for Classes of Decisions"
+	- resolved, use @channel in mattermost [ogm] Stewards; we hope to get to the point where everyone sees and acts (if necessary) on it within ~12 hours
+- Handles in general, guidelines, rules, suggestions, policy
+    - #governance
+    - obscure, psuedonymity, anonymity
+    - how do you identify yourself? how do we know you?
+- [[Finalizing Lionsberg+OGM MoU]]
 - Work [[Communicating Lionsberg Process to OGM]]
 - Work [[OGM Program & Project Management Tool Decision]]
 	- who's in the conversation, internally and externally?
@@ -24,3 +30,8 @@ Note: if you're viewing/editing this on HackMD, the double-bracket links to othe
 
 - Discuss who wants to meet with Lionsberg General Counsel
 	- see [[Finalizing Lionsberg+OGM MoU]]
+
+- recap [[Lionsberg + OGM, 2021-03-25]]
+
+## Action Items
+- Pete to update [[Finalizing Lionsberg+OGM MoU]] timeline with new input about communication plan
