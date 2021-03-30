@@ -30,6 +30,9 @@ Note: if you're viewing/editing this on HackMD, the double-bracket links to othe
 
 - Discuss who wants to meet with Lionsberg General Counsel
 	- see [[Finalizing Lionsberg+OGM MoU]]
+	- Charles, to track legal language
+	- Pete
+	- keep notes and recording and share back to Stewards
 
 - recap [[Lionsberg + OGM, 2021-03-25]]
 

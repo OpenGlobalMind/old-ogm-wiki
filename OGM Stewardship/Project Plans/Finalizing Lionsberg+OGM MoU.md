@@ -9,7 +9,7 @@
     - Jerry and Charles to populate more (when?)
 - collaborate on the MoU on the regular Stewardship Council Jam Sesh call (3/23)
 - synchronize the MoU with Jordan (iterate until everybody's happy) (3/24 jerry, 3/25 team)
-- start Communication Plan on the regular Stewardship Council Jam Sesh call (~~3/23~~ 3/28)
+- start Communication Plan on the regular Stewardship Council Jam Sesh call (~~3/23~~ 3/30)
 - Jordan and Jerry to finalize with Lionsberg General Counsel (duration: 3/24- ~~3/30~~ 4/6 )
 - start Operationalization Plan (3/28)
 - finalize [[Communicating Lionsberg Process to OGM]] plan (tbd)

@@ -2,6 +2,16 @@
 
 (initial draft from **OGM Stewardship Council, 2021-03-17** notes)
 
+next work session(s):
+- 2 hours on Wednesday, 3/30 at 07:00 PT on Jerry's zoom; see [[OGM Stewards chat channel]]
+	- when done, `@channel` to Stewards channel
+
+
+first communication is to stewards channel, and is about being in the stewards channel -- prefacing
+
+
+## Timeline
+
 
 
 ASAP - start somewhere communicating to wider OGM community - 
@@ -11,6 +21,8 @@ Goals:
 - transparency
 - wholism
 - absorbing and integrating good suggestions
+- open, honest
+- we've been working hard
 
 languaging:
 
