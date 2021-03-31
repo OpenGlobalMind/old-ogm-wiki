@@ -1,4 +1,4 @@
-# Memorandum of Understanding
+# OGM-Lionsberg Memorandum of Understanding
 
 ## Introduction
 
