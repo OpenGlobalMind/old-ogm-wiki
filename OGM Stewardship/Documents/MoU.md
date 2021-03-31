@@ -4,12 +4,9 @@
 
 Lionsberg and Open Global Mind (OGM) would like to enter an agreement in which Lionsberg would become a fiscal sponsor of OGM. 
 
-Lionsberg is co-creating a better world and better lives for all by elevating, equipping and empowering one another to realize their best, highest purpose. 
+Lionsberg is co-creating a better world and better lives for all by elevating, equipping and empowering one another to realize our best, highest purpose. 
 
-OGM is creating infrastructure, shared knowledge, facilitation and norms to help people navigate towards truth for the good of all. Getting there requires collective sensemaking to create shared memories, as well as understanding how to know what we know. Acting as knowledge stewards, we will encourage everyone to make better decisions tktk. 
-
-(tktk need to expand this and talk more about decision-making, to enable communities to be effective, bridging cultural divides, trust, etc.). 
-
+OGM is creating infrastructure, shared knowledge, facilitation and norms to help people [[navigate towards truth for the good of all]]. Getting there requires collective sensemaking to create shared memories, as well as understanding how to know what we know. Acting as knowledge stewards, we will encourage everyone to make better decisions.
 
 ## Structure of Engagement
 
