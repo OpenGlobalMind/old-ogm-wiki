@@ -22,6 +22,8 @@ The Launch Sprint fiscal sponsorship will enable better OGM governance and stewa
 
 Our intent is to learn together, co-creating the technological, governance, operational, culture and values protocols that will enable interoperabilty, collaboration and knowledge sharing among a growing network of organizations around the world.
 
+### Goals
+
 In these first Sprints, our approaches will be focused and pragmatic, applying the [[Pareto Principle]] as we make choices, rather than being comprehensive. 
 
 Our work will include:
@@ -40,11 +42,23 @@ OGM will map the most important of those relationships, while also making room f
 
 Taken together, these maps will let us and others look across the different domains of action, identify focal points, see who is doing what already and then convene working groups around them. Twelve months in, OGM will know who is part of our initial network, what resources we have at hand, and the major levers for action for our work. We will also have an approximate 10-30 year plan that gets us all to flourishing. 
 
-We will be asking organizations to back our Sprints for 6 months at a time so we hit these goals. 
+We will be asking organizations to back our Sprints for 6 months at a time so we hit these goals.
+
+### Timing and Coordination
+
+During the first month, OGM will define communication and reporting norms to keep OGM and Lionsberg aligned. 
+
+At the Sprint's midpoint, OGM and Lionsberg will hold a [[Midpoint Retrospective Process]] to reflect on the progress and impediments faced during the sprint. We will use that retrospective to adjust our plans for the rest of the Sprint. 
+
+In the final two weeks of the engagement, OGM and Lionsberg will hold a [[Wrap-up Retrospective Process]]. We will also assess whether and how we might engage in another sprint.
+
+The current intention of both parties is that another sprint will be chartered, to start immediately after the first sprint ends, with direction and goals to be set as part of the Retrospective Process.
 
 OGM will help organizations link up and align on resources, insights, projects and objectives, and with others will pull together a global movement in which we move together in decentralization and coordination.  By doing so, we will avoid organizations working in isolation and failing to achieve the crucial global objectives we have in common.
 
-We may achieve that by following root-cause analysis that uncovers latent points of leverage, by telling more compelling stories, or by helping others to find nodes they need. For example, food-waste initiatives may need slack space in cold-storage facilities; so may medical initiatives.  
+We may achieve that by following root-cause analysis that uncovers latent points of leverage, by telling more compelling stories, or by helping others to find nodes they need. For example, food-waste initiatives may need slack space in cold-storage facilities; so may medical initiatives.
+
+### Introducing The Five Layers
 
 We have mapped all our activities to five layers (intended to co-evolve as a common template): 
 - Infrastructure
@@ -54,14 +68,6 @@ We have mapped all our activities to five layers (intended to co-evolve as a com
 - Contagion
 
 The five layers serve as the structure for the rest of this document, as well as our Statement of Work (see Appendix A).
-
-During the first month, OGM will define communication and reporting norms to keep OGM and Lionsberg aligned. 
-
-At the Sprint's midpoint, OGM and Lionsberg will hold a [[Midpoint Retrospective Process]] to reflect on the progress and impediments faced during the sprint. We will use that retrospective to adjust our plans for the rest of the Sprint. 
-
-In the final two weeks of the engagement, OGM and Lionsberg will hold a [[Wrap-up Retrospective Process]]. We will also assess whether and how we might engage in another sprint.
-
-The current intention of both parties is that another sprint will be chartered, to start immediately after the first sprint ends, with direction and goals to be set as part of the Retrospective Process.
 
 ## The Five Layers
 
