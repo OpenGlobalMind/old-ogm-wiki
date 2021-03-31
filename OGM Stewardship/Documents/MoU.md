@@ -75,7 +75,7 @@ Open Global Mind uses these conceptual layers to organize our activities.
 
 ### Infrastructure
 
-Core to OGM's purpose is building a collective memory, a way of helping us know what we know and share it with others. The contents of that memory are the subject of the third layer, Knowledge; but the tools and techniques we use to manifest and curate it are Infrastructure tktk. 
+Core to OGM's purpose is building a collective memory, a way of helping us know what we know and share it with others. The contents of that memory are the subject of the third layer, Knowledge; but the tools and techniques we use to manifest and curate it are Infrastructure. 
 
 To this end, legal, organizational, and technology infrastructure supports the work we do, and the services we can offer to others, as we navigate towards truth for the good of all.
 
@@ -83,7 +83,7 @@ Infrastructure includes processes and tools for planning, communication, coordin
 
 ### Governance
 
-Shifting from ownership to stewardship has effects across our activities, from governance of collective information to discernment of social and legal protocols, management of funds (e.g., revenues, taxes), and equitable distribution of value based on properly aligned incentives tktk. 
+Shifting from ownership to stewardship has effects across our activities, from governance of collective information, to discernment of social and legal protocols, management of funds (e.g., revenues, taxes), and equitable distribution of value based on properly-aligned incentives. 
 
 OGM will experiment with methods and tools for managing itself; collective decision-making; evolving wisdom; connecting with other organizations; choosing OGM Fellows and rewarding them; consulting engagements and sharing their results; and evaluating our progress. 
 
@@ -115,7 +115,7 @@ Our partners will also propagate OGMness, as it makes sense to them.
 
 OGM's Services layer will aid in contagion, as practices and assets get integrated into clients' ways of working. 
 
-New participants and partners who engage in OGM will improve our collective intelligence in both content and processes. We will achieve this intentionally through a conscious process of [[Triple-Loop Learning]], as well as frequent checkpoints to assess our progress tktk. 
+New participants and partners who engage in OGM will improve our collective intelligence in both content and processes. We will achieve this intentionally through a conscious process of [[Triple-Loop Learning]], as well as frequent checkpoints to assess our progress. 
 
 ---
 
@@ -124,7 +124,7 @@ This Appendix contains a plan of action for the next six months with reasonable 
 
 The details, by layer, follow.
 
-There is also a [timeline view](https://miro.com/app/board/o9J_lORD1MI=/) of our Sprint, as well as what may follow tktk.
+There is also a [timeline view](https://miro.com/app/board/o9J_lORD1MI=/) of our Sprint and what may follow.
 
 ### Infrastructure
 - Prototype and demonstrate initial versions of OGM platform and protocols. 
@@ -150,8 +150,8 @@ There is also a [timeline view](https://miro.com/app/board/o9J_lORD1MI=/) of our
         - Equitable distribution of available funds
 
 - Set up simplest infrastructure for commercial ventures (eg, consulting, speaking)
-- Lionsberg will provide $15K in matching funds for OGM. OGM will reach out to potential funders and raise the initial funds tktk. 
-- Sustainability: making concrete progress against our milestones and soliciting additional funders in the second half of the Sprint will enable OGM to pave a runway that continues from Sprint to Sprint tktk. 
+- Lionsberg will provide $15K in matching funds for OGM. OGM will reach out to potential funders and raise the seed funds to match. 
+- Sustainability: making concrete progress against our milestones and soliciting additional funders in the second half of the Sprint will enable OGM to pave a runway that continues from Sprint to Sprint. 
 
 - Create plan for second OGM Sprint.
     - Experiment with evaluating our progress
@@ -159,17 +159,17 @@ There is also a [timeline view](https://miro.com/app/board/o9J_lORD1MI=/) of our
 ### Governance
 - How OGM works (internal governance)
     - Define OGM structure and naming
-    - Determine what roles OGM needs to fill in this Sprint, and who will fill them.
-    - Stewardship Council? Composition, responsibilities and protocols. 
-    - Define how independent sub-projects relate to one another within the community tktk.
+    - Determine what roles OGM needs to fill in this Sprint, and who will fill them
+    - Stewardship Council? Composition, responsibilities and protocols
+    - Define how independent sub-projects relate to one another within the community
     - Create process for supporting OGM members' own projects
-    - Identify critical business structures and operations. 
-    - Definition of done: Create a rubric for how we run experiments, and how we evaluate the results.
-    - Explore methods and tools for managing OGM activities.
+    - Identify critical business structures and operations
+    - Definition of done: Create a rubric for how we run experiments, and how we evaluate the results
+    - Explore methods and tools for managing OGM activities
 
 - Governance of OGM's emerging Commons
     - Experiment with defining our membrane (what protections we need around "open")    
-    - Experiment with collective decision-making, using at least (XYZ processes), and create a report comparing them.
+    - Experiment with collective decision-making, using at least three processes, and create a report comparing them
 
 - Governance dimensions
     - Experiment with connecting with other organizations
