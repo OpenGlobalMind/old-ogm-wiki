@@ -1,4 +1,4 @@
-# The Famous MoU
+# Memorandum of Understanding
 
 ## Introduction
 
