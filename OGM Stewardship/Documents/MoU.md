@@ -1,3 +1,4 @@
+
 # Memorandum of Understanding
 
 ## Introduction
@@ -6,43 +7,49 @@ Lionsberg and Open Global Mind (OGM) would like to enter an agreement in which L
 
 Lionsberg is co-creating a better world and better lives for all by elevating, equipping and empowering one another to realize our best, highest purpose. 
 
-OGM is creating infrastructure, shared knowledge, facilitation and norms to help people [[navigate towards truth for the good of all]]. Getting there requires collective sensemaking to create shared memories, as well as understanding how to know what we know. Acting as knowledge stewards, we will encourage everyone to make better decisions.
+OGM is creating infrastructure, shared knowledge, facilitation and norms to help people [[navigate towards truth for the good of all]]. Getting there requires collective sensemaking to create shared memories, as well as understanding how to know what we know. Acting as knowledge stewards, we will encourage everyone to make better decisions. We will enable communities to be more effective. We will bridge cultural divides.
+
+(tktk OGM is creating infrastructure, shared knowledge, facilitation and norms to help people navigate towards trust in a common truth based on common values for the good of all, for long-term broad benefit.)
+
+(tktk Jamaica's values conversation, CICOLAB Miro OGM values)
 
 ## Structure of Engagement
 
 OGM and Lionsberg will engage in a six-month initial phase called the "[[Launch Sprint]]."
 
-The Launch Sprint will propel OGM into a form that can receive grant funds, engage in prototyping and create engagements providing services to other individuals and organizations.
+The Launch Sprint will propel OGM into a form that can receive grant funds, engage in prototyping and create engagements providing services to a variety of individuals and organizations.
 
-The Launch Sprint fiscal sponsorship will ensure that all community members are assured that the technology and value that we create together will be well governed and stewarded over the long run for the benefit of society tktktk.
+The Launch Sprint fiscal sponsorship will ensure that all [[OGM community members]] are assured that the technology and value that we create together will be well governed and stewarded over the long run for the benefit of society tktktk.
 
 Our intent is to learn together, co-creating the technological, governance, operational, culture and values protocols that will enable interoperabilty, collaboration and knowledge sharing among a growing network of organizations around the world tktk.
+
+In these first Sprints, our approaches will be focused and pragmatic, applying the [[Pareto Principle]] as we make choices, rather than being comprehensive. 
 
 Our work will include:
 
 * creating initial legal, organizational, and technology infrastructure layers;
 * identifying the top 10% or 20% of prototypes, relationships, and resources that are at hand (what's available); 
-* identifying needs for the communities and clients we aim to serve (what's needed tktk; 
+* identifying needs for the communities and clients we aim to serve (which will include determining criteria in order) (what's needed tktk); 
 * visualizing and mapping those resources; 
-* prototyping a knowledge commons, built from existing and new sources; 
-* listen with care, matching the top 10% of resources and key "clients" to our activities, creating useful leverage in the system tktk; and
+* prototyping a knowledge commons, built from existing and new sources, according to existing and new protocols; 
+* listening with care, matching the top 10% of resources and key partners in our activities, creating useful leverage and flow in the system tktk; and
 * framing the activities and goals for the next two to five sprints. 
 
 tktk next six paragraphs are new
 
 For example, OGM will challenge its mapping guild to map work already done by other organizations (that top 10%) on the global grand challenges that humanity faces and needs to overcome, such as the United Nations' Sustainable Development Goals (SDGs). Other organizations have also laid out goals, milestones, points of leverage and key problems. 
 
-OGM will take an 80/20 approach to mapping those relationships, while also making room for perspectives that reframe the issues and perhaps ignite new initiatives by other organizations, or new collaborations across organizations. In other words, our maps will not only be reporting on what is, but offering perspectives on what could be. We will help make visible not only our perspectives, but others'.
+OGM will map the most important of those relationships, while also making room for perspectives that reframe the issues and perhaps ignite new initiatives by other organizations, or new collaborations across organizations. In other words, our maps will not only be reporting on what is, but offering perspectives on what could be. We will help make visible not only our perspectives, but others'.
 
 Taken together, these maps will let us and others look across the different domains of action, identify focal points, see who is doing what already and then convene working groups around them. Twelve months in, OGM will know who is part of our initial network, what resources we have at hand, and the major levers for action for our work. We will also have an approximate 10-30 year plan that gets us all to flourishing. 
 
 We will be asking organizations to back our Sprints for 6 months at a time so we hit these goals. 
 
-Organizations working in isolation will fail to achieve the crucial global objectives we have in common. We need a global movement where we move in loose synchrony. OGM can help organizations link up and align on resources, insights, projects and objectives. 
+OGM will help organizations link up and align on resources, insights, projects and objectives, and with others will pull together a global movement in which we move together in decentralization and coordination.  By doing so, we will avoid having organizations that work in isolation and fail to achieve the crucial global objectives we have in common.
 
 We may achieve that by following root-cause analysis that uncovers latent points of leverage, by telling more compelling stories, or by helping others to find nodes they need. For example, food-waste initiatives may need slack space in cold-storage facilities; so may medical initiatives.  
 
-We have mapped all our activities to five layers (that we hope are useful to others): 
+We have mapped all our activities to five layers (intended to co-evolve as a common template): 
 - Infrastructure
 - Governance
 - Knowledge
