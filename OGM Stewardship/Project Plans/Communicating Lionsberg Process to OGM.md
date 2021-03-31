@@ -2,19 +2,29 @@
 
 ## Status
 
+- plan is coming together
+- Jerry and Pete hope the plan will be done by 
+- on Thursday 4/1 call
+
 ## Roles and Responsibilities
-- Sponsor 
-- Project Manager
-- Lead
-- Team
+- Sponsor: Stewards
+- Lead: Jerry
+- Project Manager: Pete
+- Team: Stewards
 
 ## Goals
 
-- transparency
-- wholism
-- absorbing and integrating good suggestions
-- open, honest
-- we've been working hard
+*(written as statements we hope to be true at the completion of the project)*
+
+- OGM members know about Lionsberg
+- OGM members know about [[Steward Ownership]] and the differences between it and alternate structures 
+- OGM members know about the difference between "OGM at large" and "OGM Foundation"
+- OGM members who want to have read and made comments (perhaps written, perhaps verbally on a call, or other ways) on [[OGM-Lionsberg MoU]]
+- Good ideas from OGM members have been reflected in the [[OGM-Lionsberg MoU]]
+- OGM members understand the timeline for [[Finalizing Lionsberg+OGM MoU]]
+- (implications for OGM)
+- (opportunities for OGMers in the new infrastructure)
+- OGM membership has reached [[rough consensus]] on signing the MoU, and are ready for Stewards to sign the MoU
 
 ## Resource Requirements
 
@@ -23,6 +33,12 @@
 ## Approach
 
 ### Approach of the Approach
+
+- transparency
+- wholism
+- absorbing and integrating good suggestions
+- open, honest
+- we've been working hard
 
 languaging:
 
@@ -65,4 +81,6 @@ email to list / forum / mattermost
   - include FAQs, anticipated questions/resistance and have answers laid out in Communication Plan
 
 ### Communication Norms
+
+We'll use the `~[ogm] Stewards` channel in Mattermost for communication.
 
