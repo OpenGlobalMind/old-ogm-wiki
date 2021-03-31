@@ -2,18 +2,32 @@
 
 ## Creating and Sharing MoU
 
-*timeline sketch, dates subject to change*
+*living timeline, dates subject to change*
+
+```mermaid
+gantt title Creating and Sharing MoU
+dateFormat MM-DD
+axisFormat  %m/%d
+Section MoU
+Communication Plan :, 03-30, 7d
+Finalize plan :finalize, 03-31, 1d
+Communicate to Members :communicate, after finalize, 5d
+Sign MoU :sign, 04-06, 1d
+Section Operationalization
+Start Operationalizion Plan :, 04-02, 4d
+Operationalization :after communicate, 5d
+```
 
 - mapping on [Miro board](https://miro.com/app/board/o9J_lORD1MI=/)
     - created on 3/21
     - Jerry and Charles to populate more (when?)
 - collaborate on the MoU on the regular Stewardship Council Jam Sesh call (3/23)
 - synchronize the MoU with Jordan (iterate until everybody's happy) (3/24 jerry, 3/25 team)
-- start Communication Plan on the regular Stewardship Council Jam Sesh call (~~3/23~~ 3/28)
-- Jordan and Jerry to finalize with Lionsberg General Counsel (duration: 3/24- ~~3/30~~ 4/6 )
-- start Operationalization Plan (3/28)
-- finalize [[Communicating Lionsberg Process to OGM]] plan (tbd)
-- communicate with OGM members at large (tbd)
+- start Communication Plan on the regular Stewardship Council Jam Sesh call (3/30)
+- Jordan, Jerry, Charles, Pete to finalize in meetings with Lionsberg General Counsel (duration: 3/24-4/6 )
+- start Operationalization Plan (tbd)
+- finalize [[Communicating Lionsberg Process to OGM]] plan (3/31)
+- communicate with OGM members at large (duration 3/31-4/5)
 
 ## Due Diligence Around Steward Ownership
 - do a short tour of other possible models

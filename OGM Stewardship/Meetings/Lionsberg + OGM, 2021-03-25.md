@@ -1,5 +1,9 @@
 # Lionsberg + OGM, 2021-03-25
 
+## Mini Summary
+(scribed during [[OGM Stewards Jam Sesh, 2021-03-30]], 8:31am PT)
+- great recap by Jordan
+
 ## Action Items
 - jerry / jordan working with jamaica, north star etc.
 - general counsel meetings
