@@ -13,3 +13,6 @@ We have several communication channels:
 - [OGM Forum](https://forum.openglobalmind.com/)
 
 To edit this wiki, clone or fork the [OGM Wiki repo](https://github.com/OpenGlobalMind/ogm-wiki), and push or make a pull request back.
+
+## OGM Wiki Conventions
+When creating a page, please put it into an appropriate top-level or sub-level directory.  If it's not obvious where to put a new page, or if you're using software that will automatically create pages, please point it into the "New Pages" top-level directory.
