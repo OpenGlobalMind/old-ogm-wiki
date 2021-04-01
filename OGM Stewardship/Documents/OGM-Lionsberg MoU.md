@@ -42,7 +42,7 @@ OGM will map the most important of those relationships, while also making room f
 
 Taken together, these maps will let us and others look across the different domains of action, identify focal points, see who is doing what already and then convene working groups around them. Twelve months in, OGM will know who is part of our initial network, what resources we have at hand, and the major levers for action for our work. We will also have an approximate 10-30 year plan that gets us all to flourishing. 
 
-We will be asking organizations to back our Sprints for 6 months at a time so we hit these goals.
+We will be asking organizations to back our Sprints for six months at a time so we hit these goals.
 
 ### Timing and Coordination
 
@@ -83,7 +83,7 @@ Infrastructure includes processes and tools for planning, communication, coordin
 
 ### Governance
 
-Shifting from ownership to stewardship has effects across our activities, from governance of collective information, to discernment of social and legal protocols, management of funds (e.g., revenues, taxes), and equitable distribution of value based on properly-aligned incentives. 
+Shifting from ownership to stewardship has effects across our activities, from governance of collective information, to discernment of social and legal protocols, management of funds (e.g., revenues, taxes), and equitable distribution of value based on properly aligned incentives. 
 
 OGM will experiment with methods and tools for managing itself; collective decision-making; evolving wisdom; connecting with other organizations; choosing OGM Fellows and rewarding them; consulting engagements and sharing their results; and evaluating our progress. 
 
