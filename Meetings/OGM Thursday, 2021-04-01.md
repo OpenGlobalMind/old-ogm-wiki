@@ -17,9 +17,31 @@
 
 [Deep Adaptation paper](https://jembendell.com/2019/05/15/deep-adaptation-versions/), Jem Bendell
 
+### Guild Formation / Community Formation
+
+see [[OGM Culture/OGM Community Patterns]]
+
+### Diversity of OGM
+
+### Human and More Stable World
+
+- [Carrying capacity \- Wikipedia](https://en.wikipedia.org/wiki/Carrying_capacity)
+
+
+
 ## People
 
 - Kevin
 - Pete
 - Klaus
+- Craig
+- Charlotte
+- Ken
+    - Joanna Macy, grief
+    - all the languages no longer spoken on Turtle Island
+        - [National Museum of the American Indian](https://americanindian.si.edu/)
+    - companionship on the road
+- Gil
+- Tom
+- Lauren
 - 
