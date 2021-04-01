@@ -38,6 +38,8 @@ Operationalization :after communicate, 5d
 ## Agreeing Collectively to Take Responsibility for MoU Commitments 
 
 ## Finalize and Sign MoU
+- Jordan to grab OFC values and alignment section and insert
+	- Pete to give Jordan a DOCX and Jordan to give back
 - meet with Lionsberg General Counsel
 - sign document with Lionsberg (4/6)
 
