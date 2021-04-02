@@ -24,7 +24,7 @@
 ## Action Items
 - Jerry to convene session to map Klaus's brain
 - Jerry to post recording of this meeting
-- Pete to post notes to wiki and link in channel
+- Pete to post ~~notes to wiki~~ and link in channel
 - Pete to add this proto-Guild to Stewards dashboard
 - Pete to report out on 4/15 Thursday OGM 
 - Klaus to connect us to David Witzel and Tom Rehm
