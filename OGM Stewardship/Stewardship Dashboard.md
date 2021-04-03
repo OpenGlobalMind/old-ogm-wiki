@@ -22,6 +22,11 @@
 - [[Communicating Lionsberg Process to OGM]]
 - Operationalizing Launch Sprint
 
+## OGM Program & Project Management Tools
+- OGM Wiki
+- Notion
+- [[OGM Stewardship/Project Plans/OGM Program & Project Management Tool Decision]]
+
 ## Identity and Handles
 - first discussed on [[OGM Stewards Jam Sesh, 2021-03-30]]
 - let's come back to this at some point
