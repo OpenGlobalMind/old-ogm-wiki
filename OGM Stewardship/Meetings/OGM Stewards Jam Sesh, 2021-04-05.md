@@ -18,3 +18,4 @@ See "Special Agenda" above; it's not clear if/how much time, if any, we will hav
 - Check-in on our collective bat signal?
 	- resolved, use @channel in mattermost [ogm] Stewards; we hope to get to the point where everyone sees and acts (if necessary) on it within ~12 hours
 - Work [[Communicating Lionsberg Process to OGM]]
+- review [[Stewardship Dashboard]] items
