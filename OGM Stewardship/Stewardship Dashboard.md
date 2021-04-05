@@ -15,6 +15,7 @@
 		- cicolab
 		- max?
 		- stephan?
+- adding a table of contents / time markers to youtube videos ([h/t Rob in Stewards mattermost](https://chat.collectivesensecommons.org/agora/pl/bu6w1mtcuifcurhkt68t3hczee))
 
 ## OGM + Lionsberg
 

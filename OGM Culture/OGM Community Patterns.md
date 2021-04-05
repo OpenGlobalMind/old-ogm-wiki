@@ -10,3 +10,7 @@
 ## Everything Is A Project
 
 When we work together, we need a shared understanding of the goals and action plan.  Copy the [[OGM Stewardship/Project Plans/Template for Project|Template for Project]] to a new page and fill it out.
+
+## Handles
+ - how do you identify yourself? how do we know you?
+ - real name, nickname, obscure name (not obviously connected to other names), pseudonymity, anonymity
