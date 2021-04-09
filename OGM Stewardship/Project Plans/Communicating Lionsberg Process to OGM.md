@@ -2,10 +2,8 @@
 
 ## Status
 
-- plan is coming together
-- Jerry and Pete hope the plan will be done and can start to be executed by Friday, 4/2
-- on Thursday 4/1 OGM check-in 
-- call, Jerry will say something about "stay tuned to (these channels)..."
+- plan is coming together, but we're behind our desired schedule
+- Jerry hopes the plan will be done and can start to be executed by Monday, 4/12
 
 ## Roles and Responsibilities
 - Sponsor: Stewards
