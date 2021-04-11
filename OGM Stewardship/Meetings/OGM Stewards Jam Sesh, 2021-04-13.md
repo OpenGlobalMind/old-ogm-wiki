@@ -2,6 +2,8 @@
 
 Note: if you're viewing/editing this on HackMD, the double-bracket links to other wiki pages won't be active. Ping Pete about connecting your Obsidian to OGM Wiki.
 
+[![hackmd-github-sync-badge](https://hackmd.io/OTlsBX3bT1y1dt-DVsgOXQ/badge)](https://hackmd.io/OTlsBX3bT1y1dt-DVsgOXQ)
+
 ## Agenda
 
 - Check-in on our collective bat signal
