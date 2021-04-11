@@ -1,1 +1,0 @@
-# OGM Stewards Jam Sesh, 2021-04-13

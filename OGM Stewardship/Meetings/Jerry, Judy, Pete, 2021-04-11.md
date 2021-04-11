@@ -3,8 +3,8 @@
 ## Next Steps
 - Pete and Jerry: get Jerry's git going again
 - continue to pull SoW items out into [[Focused SoW]]
-- report out during [[OGM Stewards Jam Sesh, 2021-04-13]]
-    - create Agenda page for [[OGM Stewards Jam Sesh, 2021-04-13]]
+- report out during [[OGM Stewardship/Meetings/OGM Stewards Jam Sesh, 2021-04-13]]
+    - create Agenda page for [[OGM Stewardship/Meetings/OGM Stewards Jam Sesh, 2021-04-13]]
 
 ## HackMD vs. Wiki
 
