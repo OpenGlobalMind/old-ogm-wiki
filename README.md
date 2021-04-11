@@ -14,5 +14,10 @@ We have several communication channels:
 
 To edit this wiki, clone or fork the [OGM Wiki repo](https://github.com/OpenGlobalMind/ogm-wiki), and push or make a pull request back.
 
+Ask Pete for help when you need it.
+
 ## OGM Wiki Conventions
-When creating a page, please put it into an appropriate top-level or sub-level directory.  If it's not obvious where to put a new page, or if you're using software that will automatically create pages, please point it into the "New Pages" top-level directory.
+
+When creating a page, please put it into an appropriate top-level or sub-level directory.  If it's not obvious where to put a new page, or if you're using software that will automatically create pages, please point it into the `_new-pages` top-level directory.
+
+When embedding images or adding other non-Markdown files, consider putting them in the `_attachments` top-level directory.
