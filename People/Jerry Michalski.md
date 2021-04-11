@@ -6,7 +6,8 @@ phones:
 sortable-name: "Michalski, Jerry"
 ---
 # Jerry Michalski
-
+![[https://photos.app.goo.gl/TQxJW89VfrYc9c2a7]]
+![[!!Me Painted.jpg]]
 ## What about me?
  Instigator of [Open Global Mind](https://www.openglobalmind.com/), inspired by:
  - 23 years curating [one mind map](http://jerrysbrain.com), using TheBrain
@@ -23,3 +24,4 @@ Phone | SMS | WhatsApp: +1 415-465-0256
 -  [[Founding Member]] of [[Open Global Mind]]
 -  [[Founding Member]] of [[OGM Stewards]]
 - [[Founding Member]] of [[StoryThreaders Guild]]
+
