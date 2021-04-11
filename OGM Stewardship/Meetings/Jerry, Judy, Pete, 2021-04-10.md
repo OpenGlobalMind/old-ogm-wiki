@@ -57,7 +57,7 @@
 
 ## Cone of Possibilities
 
-![Cone of Possibilities](attachments/Cone%20of%20Possibilities%20-%20Voroscope.png)
+![Cone of Possibilities](_attachments/Cone%20of%20Possibilities%20-%20Voroscope.png)
 
 ## Massive Massive
 
