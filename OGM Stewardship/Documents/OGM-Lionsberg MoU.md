@@ -6,7 +6,7 @@ Lionsberg and Open Global Mind (OGM) would like to enter an agreement in which L
 
 Lionsberg is co-creating a better world and better lives for all by elevating, equipping and empowering one another to realize our best, highest purpose. 
 
-OGM is creating infrastructure, shared knowledge, facilitation and norms to help people [[navigate towards truth for the good of all]]. Getting there requires collective sensemaking to create shared memories, as well as understanding how to know what we know. Acting as knowledge stewards, we will encourage everyone to make better decisions. We will enable communities to be more effective. We will bridge cultural divides.
+OGM is creating infrastructure, shared knowledge, facilitation and norms to help people [[_new-pages/navigate towards truth for the good of all]]. Getting there requires collective sensemaking to create shared memories, as well as understanding how to know what we know. Acting as knowledge stewards, we will encourage everyone to make better decisions. We will enable communities to be more effective. We will bridge cultural divides.
 
 (tktk (OGM is creating infrastructure, shared knowledge, facilitation and norms) --> to help people navigate towards trust in a common truth based on common values for the good of all, for long-term broad benefit.)
 
