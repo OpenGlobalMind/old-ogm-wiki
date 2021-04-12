@@ -6,8 +6,7 @@ phones:
 sortable-name: "Michalski, Jerry"
 ---
 # Jerry Michalski
-![[https://photos.app.goo.gl/TQxJW89VfrYc9c2a7]]
-![[!!Me Painted.jpg]]
+![Jerry's mug](https://lh3.googleusercontent.com/v8WvcYngSzard8nk1QguGNVuXVqPwjgPa1bItf2p3OieHfYBOtSdk6vhJ3QwhFu74WN-RvbJ4dmfUbmPDJzgLqwj6ETRDgj0q8ZJWFd2hoBGw9IBPDm4WfEVIDKvmAeLF48vO9V6Lg=w600)
 ## What about me?
  Instigator of [Open Global Mind](https://www.openglobalmind.com/), inspired by:
  - 23 years curating [one mind map](http://jerrysbrain.com), using TheBrain
