@@ -92,12 +92,12 @@ Alternative: Helping humans coalesce into effective sovereign entities, individu
 
 Assumptions:
 
-- We are in the middle of [five crises](https://www.google.com/url?q=https://bra.in/3qe4my&sa=D&source=editors&ust=1618154057849000&usg=AOvVaw000N9xlo3he3qK3ta21uud), give or take.
+- We are in the middle of [five crises](https://bra.in/3qe4my), give or take.
 - Discourse at large is broken. We are stuck in logjams, unable to work together on important issues.
 - Some actors are intentionally undermining discourse and trust.
-- This process has widened a global [cultural divide](https://www.google.com/url?q=https://bra.in/7p7yJj&sa=D&source=editors&ust=1618154057850000&usg=AOvVaw0lXtgWC-6_LojvkFHfN4Z3), making things worse.
-- Our lack of a shared memory [makes us amnesic](https://www.google.com/url?q=https://bra.in/4jobaY&sa=D&source=editors&ust=1618154057850000&usg=AOvVaw07ZqPIio5wfoKXekfaA0yv), dumber, easier to manipulate.
-- [Emotion and membership trump reason most of the time](https://www.google.com/url?q=https://bra.in/2vPB9q&sa=D&source=editors&ust=1618154057851000&usg=AOvVaw3RmGnY3xrrTGHfr3fDzXII).
+- This process has widened a global [cultural divide](https://bra.in/7p7yJj), making things worse.
+- Our lack of a shared memory [makes us amnesic](https://bra.in/4jobaY), dumber, easier to manipulate.
+- [Emotion and membership trump reason most of the time](https://bra.in/2vPB9q).
 - Business is more political than businesses would like to admit.
 - We need better tools and techniques for sharing stories, facts and points of view.
 - Those tools need to interoperate, as well as share trustworthy, linked, contextual data.
@@ -108,14 +108,14 @@ Assumptions:
 
 
 
-[Useful Metaphors](https://www.google.com/url?q=https://bra.in/7v2e46&sa=D&source=editors&ust=1618154057852000&usg=AOvVaw3UiiNQQkdQz9U04PUMsmD5):
+[Useful Metaphors](https://bra.in/7v2e46):
 
 - OGM is an estuary where nutrients feed different groups, who innovate together.
 - OGM is like colonies of farmer ants, who tend to a fungus that feeds them all.
 - OGM is part of a growing ecosystem of organizations prototyping the next economy.
-- OGM reaches across to other organizations like mycelial hyphae, making contact and exchanging nutrients. We are part of a virtual [Wood Wide Web](https://www.google.com/url?q=https://bra.in/6jL4WY&sa=D&source=editors&ust=1618154057852000&usg=AOvVaw1sjHfWk6KNZLi7_tgMq05L).
+- OGM reaches across to other organizations like mycelial hyphae, making contact and exchanging nutrients. We are part of a virtual [Wood Wide Web](https://bra.in/6jL4WY).
 - In order to re-weave the fabric of society, OGM is helping weave a global brain.
-- OGM uses Jerry’s Brain as [sourdough starter](https://www.google.com/url?q=https://bra.in/3vGQz9&sa=D&source=editors&ust=1618154057853000&usg=AOvVaw07ZhWfjD-dgsNn-qE2ID8t), to stimulate creation of that global brain.
+- OGM uses Jerry’s Brain as [sourdough starter](https://bra.in/3vGQz9), to stimulate creation of that global brain.
 
 ## OGM’s **Secret Sauce**
 
