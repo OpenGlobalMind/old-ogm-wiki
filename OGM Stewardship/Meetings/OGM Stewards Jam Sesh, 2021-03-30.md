@@ -20,7 +20,7 @@ Note: if you're viewing/editing this on HackMD, the double-bracket links to othe
 	- resolved, use @channel in mattermost [ogm] Stewards; we hope to get to the point where everyone sees and acts (if necessary) on it within ~12 hours
 - Handles in general, guidelines, rules, suggestions, policy
     - #governance
-    - obscure, psuedonymity, anonymity
+    - obscure, pseudonymity, anonymity
     - how do you identify yourself? how do we know you?
 - [[Finalizing Lionsberg+OGM MoU]]
 - Work [[Communicating Lionsberg Process to OGM]]

@@ -20,7 +20,7 @@ Email: sociate@gmail.com
 Phone | SMS | WhatsApp: +1 415-465-0256
 
 ## OGM Activities
--  [[Founding Member]] of [[Open Global Mind]]
--  [[Founding Member]] of [[OGM Stewards]]
-- [[Founding Member]] of [[StoryThreaders Guild]]
+- #FoundingMember of [[Open Global Mind]]
+- #FoundingMember of [[OGM Stewards]]
+- #FoundingMember of [[StoryThreaders Guild]]
 
