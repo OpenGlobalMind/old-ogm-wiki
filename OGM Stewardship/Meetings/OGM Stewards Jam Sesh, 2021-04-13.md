@@ -15,6 +15,7 @@ If you're reading this on GitHub and want to edit on HackMD, go to: https://hack
 	- [[Jerry, Judy, Pete, 2021-04-10]]
 	- [[Jerry, Judy, Pete, 2021-04-11]]
 - Recap/review [[OGM + Lionsberg General Counsel, 2021-04-06]]
+    - Discuss newly added legal section
 - [Inviting lionsberg to visit the ogm family living room](https://chat.collectivesensecommons.org/agora/pl/fxmre34e5pdxbx7ruo7c8x3jnh)
 - review [[Stewardship Dashboard]] items
 
