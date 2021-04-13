@@ -26,10 +26,6 @@ If you're reading this on GitHub and want to edit on HackMD, go to: https://hack
 
 ### Pete's Project Management Headlines
 
-- Recap/Review Jerry/Judy/Pete Stewardship Meetings
-    - Pete's Project Management Headlines
-
-
 - The most recently published version of the SoW (in the MoU) specifies a **lot** of work, in very general ways.  We will need more hands, better teamwork, and fine-grained specification of actionable outcomes before it is a [SMART](https://en.wikipedia.org/wiki/SMART_criteria) plan that I can sign off on.
 - I believe there are prerequisites that need to be lined up before it makes sense to start the clock on the Launch Sprint. I suggest we have a "Prep Sprint" that is bound to yes/no checkoffs on prerequisites, rather than time, before we commit to starting the Launch Sprint.
 - One of the primary prerequisites is enough committed hands and teamwork/coordination to do the work.  Hands may be volunteer or paid or a combination.  If paid, another prerequisite is money to pay them.
