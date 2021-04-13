@@ -8,16 +8,18 @@ If you're reading this on GitHub and want to edit on HackMD, go to: https://hack
 
 ## Agenda
 
-- Check-in on our collective bat signal
-	- in [[OGM Stewards Jam Sesh, 2021-03-30]], we agreed to use `@channel` in the Stewards channel in Mattermost, with reasonably low latency for responses
-- Recap/review Friday/Saturday/Sunday Jerry/Judy/Pete stewardship meetings
+- Check in as people.
+- Discuss how to chunk meeting and what to do if we have overflow agenda items.
+- Check-in on our collective bat signal.
+	- In [[OGM Stewards Jam Sesh, 2021-03-30]], we agreed to use `@channel` in the Stewards channel in Mattermost, with reasonably low latency for responses.
+- Recap/review Friday/Saturday/Sunday Jerry/Judy/Pete stewardship meetings.
 	- [[Jerry, Judy, Pete, 2021-04-09]]
 	- [[Jerry, Judy, Pete, 2021-04-10]]
 	- [[Jerry, Judy, Pete, 2021-04-11]]
-- Recap/review [[OGM + Lionsberg General Counsel, 2021-04-06]]
-    - Discuss newly added legal section
-- [Inviting lionsberg to visit the ogm family living room](https://chat.collectivesensecommons.org/agora/pl/fxmre34e5pdxbx7ruo7c8x3jnh)
-- review [[Stewardship Dashboard]] items
+- Recap/review [[OGM + Lionsberg General Counsel, 2021-04-06]].
+    - Discuss newly added legal section.
+- [Inviting Lionsberg to visit the OGM family living room].(https://chat.collectivesensecommons.org/agora/pl/fxmre34e5pdxbx7ruo7c8x3jnh)
+- review [[Stewardship Dashboard]] items.
 
 ## Next Up
 
