@@ -19,11 +19,18 @@ If you're reading this on GitHub and want to edit on HackMD, go to: https://hack
 - Recap/review [[OGM + Lionsberg General Counsel, 2021-04-06]].
     - Discuss newly added legal section.
 - [Inviting Lionsberg to visit the OGM family living room].(https://chat.collectivesensecommons.org/agora/pl/fxmre34e5pdxbx7ruo7c8x3jnh)
-- review [[Stewardship Dashboard]] items.
+- Review [[Stewardship Dashboard]] items.
+- Discuss next steps.
+- Check out as people.
 
 ## Next Up
 
 - work on [[Focused SoW]] (ask Jerry/Judy/Pete for more context)
+
+## Bat Signal
+
+- jordan / jamaica invitation
+    - ˜cone of silence
 
 ## Recap/Review Jerry/Judy/Pete Stewardship Meetings
 
