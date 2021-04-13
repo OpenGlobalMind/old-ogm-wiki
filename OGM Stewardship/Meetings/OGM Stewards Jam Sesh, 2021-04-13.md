@@ -2,7 +2,9 @@
 
 Note: if you're viewing/editing this on HackMD, the double-bracket links to other wiki pages won't be active. Ping Pete about connecting your Obsidian to OGM Wiki.
 
-[![hackmd-github-sync-badge](https://hackmd.io/OTlsBX3bT1y1dt-DVsgOXQ/badge)](https://hackmd.io/OTlsBX3bT1y1dt-DVsgOXQ)
+If you're reading this on HackMD and want to edit, click the "Edit" button at the top right, then the pencil or double-page icon at the top left.
+
+If you're reading this on GitHub and want to edit on HackMD, go to: https://hackmd.io/OTlsBX3bT1y1dt-DVsgOXQ
 
 ## Agenda
 
@@ -19,3 +21,16 @@ Note: if you're viewing/editing this on HackMD, the double-bracket links to othe
 ## Next Up
 
 - work on [[Focused SoW]] (ask Jerry/Judy/Pete for more context)
+
+## Recap/Review Jerry/Judy/Pete Stewardship Meetings
+
+### Pete's Project Management Headlines
+
+- Recap/Review Jerry/Judy/Pete Stewardship Meetings
+    - Pete's Project Management Headlines
+
+
+- The most recently published version of the SoW (in the MoU) specifies a **lot** of work, in very general ways.  We will need more hands, better teamwork, and fine-grained specification of actionable outcomes before it is a [SMART](https://en.wikipedia.org/wiki/SMART_criteria) plan that I can sign off on.
+- I believe there are prerequisites that need to be lined up before it makes sense to start the clock on the Launch Sprint. I suggest we have a "Prep Sprint" that is bound to yes/no checkoffs on prerequisites, rather than time, before we commit to starting the Launch Sprint.
+- One of the primary prerequisites is enough committed hands and teamwork/coordination to do the work.  Hands may be volunteer or paid or a combination.  If paid, another prerequisite is money to pay them.
+- Given our present minimal clarity around sprint velocity and effort estimation, I think a six-month Launch Sprint allows too much accumulated uncertainty in the out months for predictable delivery, and I recommend a shorter two- or three-month Launch Sprint instead.
