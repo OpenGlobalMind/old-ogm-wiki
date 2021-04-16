@@ -20,7 +20,7 @@ urls:
 ---
 # Vincent Arena
 
-(pic to go here)
+(pic)
 
 Hello! I am Vincent Arena. Informally, I call myself Vincent. I am following in Pete's footsetps with this bio.
 
