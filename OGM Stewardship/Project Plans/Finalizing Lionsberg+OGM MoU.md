@@ -46,7 +46,7 @@ Operationalization :after communicate, 5d
 ## Follow-On Action Items / Plans
 
 - Discuss who/how many are quorum for which classes of decisions, for when we need to make definite decisions, potentially more frequently than once per week. (Bootstrap governance / Governance Plan)
-- Start OGM Program/Project Management Tool Decision Plan (between MaSVF, Notion, Airtable, + whatever else).
+- Start OGM Program/Project Management Tool Decision Plan (between Massive, Notion, Airtable, + whatever else).
 - Decide how/when to move most Stewardship operations back into the public channels rather than Inner Circle.
 
 ## Infrastructure for MoU Work

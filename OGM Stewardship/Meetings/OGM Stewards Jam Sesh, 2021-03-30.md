@@ -26,7 +26,7 @@ Note: if you're viewing/editing this on HackMD, the double-bracket links to othe
 - Work [[Communicating Lionsberg Process to OGM]]
 - Work [[OGM Program & Project Management Tool Decision]]
 	- who's in the conversation, internally and externally?
-	- quick discussion of Notion + MaSVF Wiki + federation
+	- quick discussion of Notion + Massive Wiki + federation
 
 - Discuss who wants to meet with Lionsberg General Counsel
 	- see [[Finalizing Lionsberg+OGM MoU]]

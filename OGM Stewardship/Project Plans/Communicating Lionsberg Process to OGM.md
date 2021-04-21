@@ -56,7 +56,7 @@ what we might communicate / maybe not all at once
 what media and method do we use to communicate
 
 - Google Slides presentation, then record it and share it? (current fav)
-- MaSVF wiki pages, which we share live in a pop-up OGM call?
+- Massive wiki pages, which we share live in a pop-up OGM call?
 
 include FAQs, anticipated questions/resistance and have answers laid out before communicating
 
