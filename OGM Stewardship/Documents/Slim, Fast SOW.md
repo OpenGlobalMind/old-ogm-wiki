@@ -19,9 +19,10 @@
     - Lionsberg matches funds
     - Collective Next (or Matt) matches funds
 - Lionsberg releases Tranche One to OGM
-    - need banking / funds tranfer details here
-- OGM stewards disburse Tranche One to OGM Fellows
+    - need banking / funds transfer details here
+- OGM stewards disburse Tranche One to OGM Fellows, with the following public good (and designing and building a better world) as an outcome / stated focus
     - selection process to be determined
+    - public good to be determined
 
 ### Subsequent Rounds
 
