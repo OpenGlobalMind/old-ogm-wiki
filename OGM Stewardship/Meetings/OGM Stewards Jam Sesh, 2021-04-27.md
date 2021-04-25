@@ -2,7 +2,7 @@
 
 Note: if you're viewing/editing this on HackMD, the double-bracket links to other wiki pages won't be active. Ping Pete about connecting your Obsidian to OGM Wiki.
 
-If you're reading this on HackMD and want to edit, click the "Edit" button at the top right, then the pencil or double-page icon at the top left.
+If you're reading this on HackMD and want to edit, click the "Edit" button at the top right (if there is one), then the pencil or double-page icon at the top left.
 
 If you're reading this on GitHub and want to edit on HackMD, go to: https://hackmd.io/@peterkaminski/HkaGeXzwO
 
@@ -12,8 +12,10 @@ If you're reading this on GitHub and want to edit on HackMD, go to: https://hack
 - Discuss how to chunk meeting and what to do if we have overflow agenda items.
 - Review status of OGM + Lionsberg partnership and structuring of OGM.
 	- [[Lionsberg+OGM, 2021-04-22]]
+	- How would OGM fill out [[FAQ, Entity-Member Relationship]]?
 - Tour of OGM Wiki (including Massive Wiki static site generation).
 - Check in on [[Quest - Opening up OGM]].
+- What do we think about the new `[Quest]` namespace in CSC Mattermost? What do we think CSC thinks about it?
 - Review [[Stewardship Dashboard]] items.
 - Work session on MOU / [[Slim, Fast SOW]] / Legal section documents.
 - Discuss next steps.
