@@ -4,8 +4,7 @@
 table
 meeting-series as "Meeting Series",
 file.size as "File Size"
-from "Meetings"
-where contains(file.name, "OGM")
+where category = "Meeting"
 sort date desc
 ```
 

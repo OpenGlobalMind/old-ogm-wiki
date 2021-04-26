@@ -1,4 +1,5 @@
 ---
+category: Meeting
 meeting-series: OGM Thursday
 source-channel: Collective Next Zoom
 date: 2021-04-22
