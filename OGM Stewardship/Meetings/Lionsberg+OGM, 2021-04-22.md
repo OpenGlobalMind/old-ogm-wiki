@@ -1,6 +1,6 @@
 ---
 category: Meeting
-meeting-series: OGM Stewards
+meeting-series: OGM Stewards Lionsberg
 source-channel: Collective Next Zoom
 date: 2021-04-22
 recording-video: 

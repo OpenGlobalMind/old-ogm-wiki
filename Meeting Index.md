@@ -2,10 +2,14 @@
 
 ```dataview
 table
-meeting-series as "Meeting Series",
-file.size as "File Size"
+rows.date as "Date",
+rows.meeting-series as "Meeting Series",
+rows.file.link as "Meeting Notes",
+rows.recording-video as "Video Link",
+rows.file.size as "File Size"
 where category = "Meeting"
 sort date desc
+group by file.path
 ```
 
 
