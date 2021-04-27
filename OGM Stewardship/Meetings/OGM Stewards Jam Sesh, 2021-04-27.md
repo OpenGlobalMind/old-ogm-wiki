@@ -6,17 +6,65 @@ If you're reading this on HackMD and want to edit, click the "Edit" button at th
 
 If you're reading this on GitHub and want to edit on HackMD, go to: https://hackmd.io/@peterkaminski/HkaGeXzwO
 
-## Potential Agenda Items
+## Agenda
 
 - Check in as people.
 - Discuss how to chunk meeting and what to do if we have overflow agenda items.
+- _stuff goes here_
+- Discuss next steps.
+- Check out as people.
+
+## Potential Agenda Items
+
+_in arbitrary order_
+
 - Review status of OGM + Lionsberg partnership and structuring of OGM.
 	- [[Lionsberg+OGM, 2021-04-22]]
 	- How would OGM fill out [[FAQ, Entity-Member Relationship]]?
-- Tour of OGM Wiki (including Massive Wiki static site generation).
+- Review the term "steward ownership" in relation to OGM:
+    - what is being stewarded?
+    - who is stewarding?
+    - what is owned?
+    - who is owning?
+- Discuss David Bovill's proposal to collaborate on Governance issues (below)
+- Tour of OGM Wiki, OGM Mainsite, and Massive Wiki static site generation.
 - Check in on [[Quest - Opening up OGM]].
 - What do we think about the new `[Quest]` namespace in CSC Mattermost? What do we think CSC thinks about it?
 - Review [[Stewardship Dashboard]] items.
 - Work session on MOU / [[Slim, Fast SOW]] / Legal section documents.
-- Discuss next steps.
-- Check out as people.
+
+## Proposal to Collaborate on Governance Issues
+
+from https://chat.collectivesensecommons.org/agora/pl/n66peajxytfkxcb8mx8hqanfgc et seq.
+
+For GaiaFest I need to start a governance conversation leading to a constitution for the project that is able to decide about budget and resource allocation in the light of rich and meaningful deliberations about environmental values.
+
+The requirements for these discussions I believe are identical to the OGM stewardship deliberations in the Stewards channel. But I will take a very different approach.
+
+The difference of approach is mainly a difference in structure. That is, I believe in having structure lead openness, rather than look for structure simply to emerge from openness (at least in the time scale needed for GaiaFest). 
+
+This timescale requires a rich detailed human-centred governance, with some degree of legal participation across global jurisdictions and a legal DAO (LAO) like component presented on the world stage in November (at COP26). It also needs to be functional enough in order to organise next year ms festival - so by November it needs to be up and working.
+
+To that end I hope to start some structural work around rich governance from a legal and technical perspective starting this week, with the aim of presenting a work program in 6 weeks time on World Environment Day.
+
+This will be:
+
+1) A technical work group open to people who are motivated to work on the legal-tech aspects that will need to be in place prior to the involvement of a demos (public).
+
+2) GaiaFest requires an ambitious involvement of diverse stakeholders. Those who will actually make the decisions. This means building micro-publics and supporting their deliberations with the infrastructure we have built in 1) above.
+
+My proposal (discussed with Jerry and Pete) is that we combine forces on these Governance issues, and adopt a similar timescale.
+
+That is, I propose that whatever stewardship proposal OGM adopts is both sped up and slowed down. 
+
+First, OGM should adopt a pragmatic and simple stewardship model that fits any fiscal needs it nay have until November. 
+
+Second, it should take the time between now and November to deliberate its stewardship needs in detail. 
+
+Lastly, OGM should propose a structure to its members and formally adopt a stewardship model after the November public presentation.
+
+The adoption of a timescale like this would allow such possibilities as:
+
+1) We pool legal-tech expertise and build a common legal-tech platform to support both organisations.
+
+2) We run common governance workshops around GaiaFest, and learn from this thought experiment together and seek to apply lessons learned to OGM.
