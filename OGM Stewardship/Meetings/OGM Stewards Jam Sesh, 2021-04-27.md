@@ -6,6 +6,11 @@ If you're reading this on HackMD and want to edit, click the "Edit" button at th
 
 If you're reading this on GitHub or Obsidian and want to edit on HackMD, go to: https://hackmd.io/@peterkaminski/HkaGeXzwO
 
+## People
+
+- Jerry, Judy, Scott, David, Pete
+- _not_ Charles, Matt
+
 ## Agenda
 
 - Check in as people.
@@ -18,21 +23,35 @@ If you're reading this on GitHub or Obsidian and want to edit on HackMD, go to: 
 
 _in arbitrary order_
 
-- Review status of OGM + Lionsberg partnership and structuring of OGM.
+- (1) Review status of OGM + Lionsberg partnership and structuring of OGM.
 	- [[Lionsberg+OGM, 2021-04-22]]
 	- How would OGM fill out [[FAQ, Entity-Member Relationship]]?
-- Review the term "steward ownership" in relation to OGM:
+- (3) Review the term "steward ownership" in relation to OGM:
     - what is being stewarded?
+        - authority, responsibility
     - who is stewarding?
     - what is owned?
     - who is owning?
-- Discuss David Bovill's proposal to collaborate on Governance issues (below)
-- Tour of OGM Wiki, OGM Mainsite, and Massive Wiki static site generation.
-- Check in on [[Quest - Opening up OGM]].
-- What do we think about the new `[Quest]` namespace in CSC Mattermost? What do we think CSC thinks about it?
-- Review [[Stewardship Dashboard]] items.
-- Work session on MOU / [[Slim, Fast SOW]] / Legal section documents.
-- Handling scale ; decentralization
+- (2) Discuss David Bovill's proposal to collaborate on Governance issues (below)
+- (5) Tour of [OGM Wiki](https://github.com/OpenGlobalMind/ogm-wiki/), OGM Mainsite ([temp](https://ogm-mainsite.netlify.app/)), and Massive Wiki static site generation.
+- (6) Start prep for Thursday OGM+Lionsberg call.
+- (7) Check in on [[Quest - Opening up OGM]].
+- (8) What do we think about the new `[Quest]` namespace in CSC Mattermost? What do we think CSC thinks about it?
+- (9) Review [[Stewardship Dashboard]] items.
+- (deferred to work session) Work session on MOU / [[Slim, Fast SOW]] / Legal section documents.
+    - 2 hours tomorrow at 11am PDT / 1900 London
+- (4) Handling scale ; decentralization
+
+## Notes
+
+- Cunningham's Law
+- more wiki-fying notes
+- page created: [[Governance Model Comparisons]]
+
+### Wiki Governance
+
+- good wiki structure = good governance
+- clarity of definitions
 
 ## References / Resources
 
@@ -45,12 +64,39 @@ _in arbitrary order_
 - Idea: decentralized federation of focused sovereigns
     - Federation = agreements, commitments, promises between sovereigns.
     - Each sovereign has its own, focused, vision/mission/values around a center of gravity.
+    - Sovereigns can be service providers and clients to each other.
+    - This is called federated micro-publics in GaiaFests "minimal viable governance model".
+        - therefore, "sovereign" = "micro-publics"
 - Observations
     - Amorphousness is good.
     - Focus is good.
     - Decentralization and federation provide both amorphousness and focus.
+- Tools
+    - Scaling while preserving the quality of rich deliberation requires tool support.
 
 ## Proposal to Collaborate on Governance Issues
+
+- not a governance model per se, rather a time scale
+- short-term process for funding
+- (a flotilla of sovereigns/micro-publics forming and doing work that might be, could be hundreds of them)
+- mid-term (Nov 21 / June 22), really good process for constitution OGM, GaiaFest
+    - 10-15 membership meetings would be needed for good process
+
+"revenue stream" -> "value stream" (where "value" == something that i or someone really care about, a measurable value, value creation)
+
+flotilla
+- practical, federation
+- each sovereign is a legal entity, with its own form
+- an ecosystem of legal entities
+
+quotes
+- test: if it's a minimal step, are you ready to burn it down and build something else?
+- "'subset of the flotilla' is misleading"
+- "governance is about managing conflict"
+- "pace matching"
+- where do you incorporate the law
+- [[Legislative Theatre]]
+- "evolution needs something to work with"
 
 from https://chat.collectivesensecommons.org/agora/pl/n66peajxytfkxcb8mx8hqanfgc et seq.
 
@@ -67,14 +113,13 @@ To that end I hope to start some structural work around rich governance from a l
 This will be:
 
 1) A technical work group open to people who are motivated to work on the legal-tech aspects that will need to be in place prior to the involvement of a demos (public).
-
 2) GaiaFest requires an ambitious involvement of diverse stakeholders. Those who will actually make the decisions. This means building micro-publics and supporting their deliberations with the infrastructure we have built in 1) above.
 
 My proposal (discussed with Jerry and Pete) is that we combine forces on these Governance issues, and adopt a similar timescale.
 
 That is, I propose that whatever stewardship proposal OGM adopts is both sped up and slowed down. 
 
-First, OGM should adopt a pragmatic and simple stewardship model that fits any fiscal needs it nay have until November. 
+First, OGM should adopt a pragmatic and simple stewardship model that fits any fiscal needs it may have until November. 
 
 Second, it should take the time between now and November to deliberate its stewardship needs in detail. 
 
@@ -83,5 +128,4 @@ Lastly, OGM should propose a structure to its members and formally adopt a stewa
 The adoption of a timescale like this would allow such possibilities as:
 
 1) We pool legal-tech expertise and build a common legal-tech platform to support both organisations.
-
 2) We run common governance workshops around GaiaFest, and learn from this thought experiment together and seek to apply lessons learned to OGM.
