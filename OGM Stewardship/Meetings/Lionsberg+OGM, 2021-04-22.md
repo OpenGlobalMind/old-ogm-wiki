@@ -10,7 +10,7 @@ jerrys-brain:
 
 ## Agenda
 
-- Present [[Slim, Fast Statement of Work]].
+- Present [[Slim, Fast SOW]].
     - get feedback
 - Review our [marked-up legal section]() (link redacted).
 - Ask Jordan about what _needs_ to be in the MOU and what can be in separate vision documents.
@@ -30,10 +30,11 @@ jerrys-brain:
     - what are the hypotheses and questions _we_ are exploring / trying to solve
     - what are the hypotheses and questions _others in our networks_ are exploring / trying to solve
     - flotilla of sovereigns may be more attractive to funding partners (00:43)
+		- (note later: ref [[doughnut economics]])
 - new MOU structure (00:47)
     - short legal MOU, pragmatic fiscal sponsorship relationship
         - purposes of orgs, why we are aligning
-    - appendix a: slim, fast SOW; approximate good we want to achieve
+    - appendix a (or last?): slim, fast SOW; approximate good we want to achieve
         - really, the SOW for this sprint; updated for each sprint
         - release number 1, 2, 3, 4
             - or release names :-)
