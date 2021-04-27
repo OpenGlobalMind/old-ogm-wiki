@@ -11,7 +11,7 @@ If you're reading this on GitHub and want to edit on HackMD, go to: https://hack
 - Check in as people.
 - Discuss how to chunk meeting and what to do if we have overflow agenda items.
 - _stuff goes here_
-- Discuss next steps.
+- Discuss and record next steps.
 - Check out as people.
 
 ## Potential Agenda Items
@@ -32,6 +32,11 @@ _in arbitrary order_
 - What do we think about the new `[Quest]` namespace in CSC Mattermost? What do we think CSC thinks about it?
 - Review [[Stewardship Dashboard]] items.
 - Work session on MOU / [[Slim, Fast SOW]] / Legal section documents.
+
+## References / Resources
+
+- [The LAO: A For\-Profit, Limited Liability Autonomous Organization](https://medium.com/openlawofficial/the-lao-a-for-profit-limited-liability-autonomous-organization-9eae89c9669c)
+    - Not sure if this is the "LAO" David refers to, but it's a good short history of The DAO, and an explanation of The LAO.  It bears a compare/contrast between the LAO structure and the Lionsberg structure.
 
 ## Proposal to Collaborate on Governance Issues
 
