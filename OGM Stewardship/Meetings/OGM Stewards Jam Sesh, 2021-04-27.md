@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Stewards
+source-channel: Collective Next Zoom
+date: 2021-04-27
+recording-video: tbd
+jerrys-brain: tbd
+---
 # OGM Stewards Jam Sesh, 2021-04-27
 
 Note: if you're viewing/editing this on HackMD, the double-bracket links to other wiki pages won't be active. Ping Pete about connecting your Obsidian to OGM Wiki.
@@ -24,7 +32,7 @@ If you're reading this on GitHub or Obsidian and want to edit on HackMD, go to: 
 _in arbitrary order_
 
 - (1) Review status of OGM + Lionsberg partnership and structuring of OGM.
-	- [[Lionsberg+OGM, 2021-04-22]]
+	- [[Lionsberg + OGM, 2021-04-22]]
 	- How would OGM fill out [[FAQ, Entity-Member Relationship]]?
 - (3) Review the term "steward ownership" in relation to OGM:
     - what is being stewarded?

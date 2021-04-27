@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Special
+source-channel: tbd
+date: 2021-04-02
+recording-video: tbd
+jerrys-brain: tbd
+---
 # Food Insecurity and Regenerative Ag, 2021-04-02
 
 ## First Meeting, 2021-04-02

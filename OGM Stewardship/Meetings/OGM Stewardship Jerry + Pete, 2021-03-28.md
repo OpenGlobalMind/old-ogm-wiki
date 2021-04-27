@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Stewards
+source-channel: tbd
+date: 2021-03-28
+recording-video: tbd
+jerrys-brain: tbd
+---
 # OGM Stewardship Jerry + Pete, 2021-03-28
 
 ## Agenda

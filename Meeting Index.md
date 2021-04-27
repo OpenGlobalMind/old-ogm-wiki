@@ -1,4 +1,14 @@
-### All OGM Calls by Date (newest first):
+# Meeting Index
+
+## About This Page
+
+This page is used to automatically show indexes of all the Meeting pages in the wiki.
+
+To make it work, it uses the [[YAML Front Matter]] in the wiki pages, and a plugin for Obsidian called "Dataview".  Only the notes with `category` set to "Meeting" will show up here.
+
+In Obsidian, view the page in **Preview** mode to see the indexes. If you are not seeing the indexes, please install the community plugin called "Dataview", enable the plugin, and re-open the vault.
+
+## Meetings by Date (newest first)
 
 ```dataview
 table
@@ -13,11 +23,7 @@ group by file.path
 ```
 
 
-Notes: 
-(1) Show the file in **Preview** mode to see the list. If you are not seeing the list, please install the community plugin called "Data View", enable the plugin, and re-open the vault.
-(2) only the notes with Category set to "Meeting" will show up here
-
-### All OGM Calls by Call Type then Date:
+## Meetings by Series (alpha) then Date (newest first)
 
 ```dataview
 table
@@ -27,7 +33,7 @@ rows.file.link as "Meeting Notes",
 rows.recording-video as "Video Link",
 rows.file.size as "File Size"
 where category = "Meeting"
-sort rows.meeting-series asc, date desc
+sort meeting-series asc, date desc
 group by file.path
 ```
 

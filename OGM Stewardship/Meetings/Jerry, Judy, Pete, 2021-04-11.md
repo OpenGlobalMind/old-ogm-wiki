@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Stewards
+source-channel: tbd
+date: 2021-04-11
+recording-video: tbd
+jerrys-brain: tbd
+---
 # Jerry, Judy, Pete, 2021-04-11
 
 ## Next Steps

@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Lionsberg + OGM
+source-channel: 
+date: 2021-04-01
+recording-video: tbd
+jerrys-brain: tbd
+---
 # Lionsberg + OGM, 2021-04-01
 
 ## Before The Meeting

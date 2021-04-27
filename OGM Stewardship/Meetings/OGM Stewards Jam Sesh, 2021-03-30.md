@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Stewards
+source-channel: Collective Next Zoom
+date: 2021-03-30
+recording-video: tbd
+jerrys-brain: tbd
+---
 # OGM Stewards Jam Sesh, 2021-03-30
 
 Note: if you're viewing/editing this on HackMD, the double-bracket links to other wiki pages won't be active. Ping Pete about connecting your Obsidian to OGM Wiki.

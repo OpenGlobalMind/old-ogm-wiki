@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: OGM Thursday
+source-channel: Collective Next Zoom
+date: 2021-03-25
+recording-video: tbd
+jerrys-brain: tbd
+---
 # OGM Thursday, 2021-03-25
 
 notes by [[@Peter Kaminski]]

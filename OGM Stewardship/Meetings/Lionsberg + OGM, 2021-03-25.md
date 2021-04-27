@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Lionsberg + OGM
+source-channel: tbd
+date: 2021-03-25
+recording-video: tbd
+jerrys-brain: tbd
+---
 # Lionsberg + OGM, 2021-03-25
 
 ## Mini Summary

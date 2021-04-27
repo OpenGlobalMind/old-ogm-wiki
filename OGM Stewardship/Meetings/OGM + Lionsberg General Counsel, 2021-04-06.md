@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Lionsberg + OGM
+source-channel: tbd
+date: 2021-04-06
+recording-video: tbd
+jerrys-brain: tbd
+---
 # OGM + Lionsberg General Counsel, 2021-04-06
 
 ## People

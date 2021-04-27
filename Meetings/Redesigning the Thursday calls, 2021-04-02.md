@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Special
+source-channel: tbd
+date: 2021-04-02
+recording-video: tbd
+jerrys-brain: tbd
+---
 # Redesigning the Thursday calls, 2021-04-02
 
 ## Meta-Agenda
