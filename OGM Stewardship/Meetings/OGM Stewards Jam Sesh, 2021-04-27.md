@@ -4,7 +4,7 @@ Note: if you're viewing/editing this on HackMD, the double-bracket links to othe
 
 If you're reading this on HackMD and want to edit, click the "Edit" button at the top right (if there is one), then the pencil or double-page icon at the top left.
 
-If you're reading this on GitHub and want to edit on HackMD, go to: https://hackmd.io/@peterkaminski/HkaGeXzwO
+If you're reading this on GitHub or Obsidian and want to edit on HackMD, go to: https://hackmd.io/@peterkaminski/HkaGeXzwO
 
 ## Agenda
 
@@ -41,12 +41,14 @@ _in arbitrary order_
 
 ## Handling Scale; Decentralization
 
+- How to achieve consensus in a large group of people? (i.e., scale)
 - Idea: decentralized federation of focused sovereigns
     - Federation = agreements, commitments, promises between sovereigns.
-    - Each sovereign has its own, focused, vision/mission/values.
+    - Each sovereign has its own, focused, vision/mission/values around a center of gravity.
 - Observations
     - Amorphousness is good.
     - Focus is good.
+    - Decentralization and federation provide both amorphousness and focus.
 
 ## Proposal to Collaborate on Governance Issues
 
@@ -58,7 +60,7 @@ The requirements for these discussions I believe are identical to the OGM stewar
 
 The difference of approach is mainly a difference in structure. That is, I believe in having structure lead openness, rather than look for structure simply to emerge from openness (at least in the time scale needed for GaiaFest). 
 
-This timescale requires a rich detailed human-centred governance, with some degree of legal participation across global jurisdictions and a legal DAO (LAO) like component presented on the world stage in November (at COP26). It also needs to be functional enough in order to organise next year ms festival - so by November it needs to be up and working.
+This timescale requires a rich detailed human-centred governance, with some degree of legal participation across global jurisdictions and a legal DAO (LAO) like component presented on the world stage in November (at COP26). It also needs to be functional enough in order to organise next years festival - so by November it needs to be up and working.
 
 To that end I hope to start some structural work around rich governance from a legal and technical perspective starting this week, with the aim of presenting a work program in 6 weeks time on World Environment Day.
 
