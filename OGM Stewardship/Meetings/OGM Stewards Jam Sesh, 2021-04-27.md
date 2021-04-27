@@ -32,11 +32,21 @@ _in arbitrary order_
 - What do we think about the new `[Quest]` namespace in CSC Mattermost? What do we think CSC thinks about it?
 - Review [[Stewardship Dashboard]] items.
 - Work session on MOU / [[Slim, Fast SOW]] / Legal section documents.
+- Handling scale ; decentralization
 
 ## References / Resources
 
 - [The LAO: A For\-Profit, Limited Liability Autonomous Organization](https://medium.com/openlawofficial/the-lao-a-for-profit-limited-liability-autonomous-organization-9eae89c9669c)
     - Not sure if this is the "LAO" David refers to, but it's a good short history of The DAO, and an explanation of The LAO.  It bears a compare/contrast between the LAO structure and the Lionsberg structure.
+
+## Handling Scale; Decentralization
+
+- Idea: decentralized federation of focused sovereigns
+    - Federation = agreements, commitments, promises between sovereigns.
+    - Each sovereign has its own, focused, vision/mission/values.
+- Observations
+    - Amorphousness is good.
+    - Focus is good.
 
 ## Proposal to Collaborate on Governance Issues
 
