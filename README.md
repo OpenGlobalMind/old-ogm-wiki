@@ -2,7 +2,7 @@
 
 Welcome to Open Global Mind.  This is our wiki.
 
-It is a Massive Wiki.
+It is a [[Massive Wiki]].
 
 Please visit our web home page: [Open Global Mind](https://www.openglobalmind.com/).
 
@@ -15,6 +15,18 @@ We have several communication channels:
 To edit this wiki, clone or fork the [OGM Wiki repo](https://github.com/OpenGlobalMind/ogm-wiki), and push or make a pull request back.
 
 Ask Pete for help when you need it.
+
+## Helpful Pages and Sections
+
+- [[Meeting Index]] - a dynamically updated index of meeting notes
+- Blogs - pages by a particular person
+- Meetings - meeting notes for general OGM meetings
+- OGM Culture - how we OGM together
+- OGM Stewardship - governance of OGM
+- OMG Structure - the structure of OGMing together
+- Organizations - other organizations of interest
+- People - some of the people in OGM
+- Templates - pages or pieces of pages that help create particular kinds of pages
 
 ## OGM Wiki Conventions
 
