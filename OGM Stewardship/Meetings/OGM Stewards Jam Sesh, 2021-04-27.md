@@ -3,7 +3,7 @@ category: Meeting
 meeting-series: Stewards
 source-channel: Collective Next Zoom
 date: 2021-04-27
-recording-video: tbd
+recording-video: https://youtu.be/AueVVaIHQck
 jerrys-brain: tbd
 ---
 # OGM Stewards Jam Sesh, 2021-04-27
@@ -29,7 +29,7 @@ If you're reading this on GitHub or Obsidian and want to edit on HackMD, go to: 
 
 ## Potential Agenda Items
 
-_in arbitrary order_
+_numbers give priority order_
 
 - (1) Review status of OGM + Lionsberg partnership and structuring of OGM.
 	- [[Lionsberg + OGM, 2021-04-22]]
@@ -52,7 +52,7 @@ _in arbitrary order_
 
 ## Notes
 
-- Cunningham's Law
+- [[Cunningham's Law]]
 - more wiki-fying notes
 - page created: [[Governance Model Comparisons]]
 
