@@ -10,7 +10,7 @@ jerrys-brain: tbd
 
 ## Agenda
 
-- Present [[Slim, Fast SOW]].
+- Present [[Appendix A - Slim, Fast SOW]].
     - get feedback
 - Review our [marked-up legal section]() (link redacted).
 - Ask Jordan about what _needs_ to be in the MOU and what can be in separate vision documents.
