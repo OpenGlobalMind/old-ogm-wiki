@@ -1,5 +1,9 @@
 # Slim, Fast Statement of Work
 
+## New Stuff
+
+OGM and Lionsberg will engage in a six-month initial phase called the "[[Launch Sprint]]."
+
 ## OGM Operating Infrastructure
 
 - OGM will use the OGM Wiki for community planning, coordination, and documentation
