@@ -1,5 +1,9 @@
 _stuff goes here_
 
+https://communityrule.info/
+
+https://metagov.org/
+
 matrix?
 
 values?
