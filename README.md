@@ -1,12 +1,10 @@
-# README
+# Welcome to Open Global Mind.
 
-Welcome to Open Global Mind.  This is our wiki.
+This is our wiki. It is a [[Massive Wiki]].
 
-It is a [[Massive Wiki]].
+Please visit our homepage website: [Open Global Mind](https://www.openglobalmind.com/).
 
-Please visit our web home page: [Open Global Mind](https://www.openglobalmind.com/).
-
-We have several communication channels:
+Along with this wiki, we have several other communication channels:
 
 - [CSC Mattermost](https://chat.collectivesensecommons.org)
 - [OGM Google Group](https://groups.google.com/g/openglobalmind/)

@@ -8,6 +8,8 @@ To make it work, it uses the [[YAML Front Matter]] in the wiki pages, and a plug
 
 In Obsidian, view the page in **Preview** mode to see the indexes. If you are not seeing the indexes, please install the community plugin called "Dataview", enable the plugin, and re-open the vault.
 
+If you see text like `dataview table rows.date` etc., your Massive Wiki viewer does not yet support the Dataview plugin.
+
 ## Meetings by Date (newest first)
 
 ```dataview
