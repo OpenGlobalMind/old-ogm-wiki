@@ -17,7 +17,7 @@ If you're reading this on GitHub or Obsidian and want to edit on HackMD, go to: 
 ## People
 
 - Jerry, Judy, Scott, David, Pete
-- _not_ Charles, Matt
+- _not_ Lauren, Charles, Matt
 
 ## Agenda
 
