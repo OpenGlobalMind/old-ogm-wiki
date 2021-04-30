@@ -1,6 +1,6 @@
 # Welcome to Open Global Mind.
 
-This is our wiki. It is a [[Massive Wiki]].
+This is our wiki. It is a [Massive Wiki](https://massive.wiki/).
 
 Please visit our homepage website: [Open Global Mind](https://www.openglobalmind.com/).
 
