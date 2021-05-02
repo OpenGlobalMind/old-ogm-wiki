@@ -1,35 +1,25 @@
-# Slim, Fast Statement of Work
+# Appendix A: Slim, Fast Statement of Work
 
-## New Stuff
+## Overview
 
-OGM and Lionsberg will engage in a six-month initial phase called the "[[Launch Sprint]]."
+OGM Bootstrap and Lionsberg will engage in a two-month initial phase called the "[[Launch Sprint]]."
 
-## OGM Operating Infrastructure
+## OGM Bootstrap Operating Infrastructure
 
-- OGM will use the OGM Wiki for community planning, coordination, and documentation
+OGM Bootstrap will have open and participatory planning, coordination, and knowledge management.
+
+Possible tools will include:
+- OGM Wiki
+- CSC Mattermost
+
+## Goals
+
+- Demonstrate good practices with the "OGM Bootstrap Operating Infrastructure" above
 - With OGM Membership:
-    - OGM will complete an OGM-specific version of [FAQ, Entity-Member Relationship](https://github.com/OpenGlobalMind/ogm-wiki/blob/main/Templates/FAQ%2C%20Entity-Member%20Relationship.md)
-    - We will flesh out the documentation of [OGM Structure](https://github.com/OpenGlobalMind/ogm-wiki/blob/main/OGM%20Structure/OGM%20Structure.md)
-- (interfacing with Lionsberg via Notion?)
-
-## Fellowship Funding
-
-### First Round (the simplest thing that could work)
-
-- OGM and Lionsberg effect sponsee deal
-    - sign MOU
-    - what else?
-- OGM raises Tranche One of at least $100, deposited with Lionsberg and intended for OGM Fellows
-    - Lionsberg matches funds
-    - Collective Next (or Matt) matches funds
-- Lionsberg releases Tranche One to OGM
-    - need banking / funds transfer details here
-- OGM stewards disburse Tranche One to OGM Fellows, with the following public good (and designing and building a better world) as an outcome / stated focus
-    - selection process to be determined
-    - public good to be determined
-
-### Subsequent Rounds
-
-- TBD
-
-
+    - OGM Bootstrap will facilitate completion of an OGM-specific version of [FAQ, Entity-Member Relationship](https://wiki.openglobalmind.com/templates/faq,_entity-member_relationship)
+    - OGM Bootstrap will facilitate completion of the [[Appendix B: Cultures and Value Alignment]]
+    - OGM Bootstrap will facilitate the documentation of [OGM Structure](https://wiki.openglobalmind.com/ogm_structure/ogm_structure)
+- Develop [[OGM Fund]]
+    - prototype funding of fellowships and sovereigns
+    - set up financial infrastructure as needed
+- Prepare for Tranche 2 funding
