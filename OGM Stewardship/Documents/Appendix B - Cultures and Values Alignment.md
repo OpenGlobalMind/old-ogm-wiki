@@ -14,8 +14,7 @@
     - Collective Sensing
     - Operating as a Decentralized Fractal Federation
     - Right Timing
-    - Honoring Sovereign and Integral
-    - Operating through Circular Leadership and Local Temporary Leadership
+    - Honoring Sovereign and Integral Operating through Circular Leadership and Local Temporary Leadership
     - Creation of Mutual Value & Resource Flows
 - Both parties agree to operate based on shared social protocols
     - Leave each space better than we found it
