@@ -17,6 +17,7 @@ Ask Pete for help when you need it.
 ## Helpful Pages and Sections
 
 - [[Meeting Index]] - a dynamically updated index of meeting notes
+- Brain - collected knowledge and wisdom
 - Blogs - pages by a particular person
 - Meetings - meeting notes for general OGM meetings
 - OGM Culture - how we OGM together
