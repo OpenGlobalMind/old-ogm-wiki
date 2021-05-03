@@ -1,4 +1,4 @@
-# navigate towards truth for the good of all
+# Navigate Towards Truth For The Good Of All
 
 ## Let's discuss this a lot more.
 

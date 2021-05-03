@@ -1,8 +1,9 @@
 OGM has:
 - Guilds
 - Quests
-- an [[OGM-Member Relationship FAQ]]
+- an [[OGM-Member Relationship FAQ]] (see [[FAQ, Entity-Member Relationship]] to start)
 - an [[OGM Code of Conduct]]
+- [[The Five Layers]]
 
 We have several communication  and coordination tools:
 
