@@ -19,7 +19,7 @@ jerrys-brain: tbd
     - Add "recruiting stewards" to Communication Plan, recruit more stewards
     - Form a quest called the ~~Collation Company~~ Upkido?
 
-## The OGMs
+## [[The OGMs]]
 - an entity focused on operationalizing the Lionsberg fractal model
 - a vision for 2025
 - a community of attraction, a nexus of energy and love, a way of being, a verb

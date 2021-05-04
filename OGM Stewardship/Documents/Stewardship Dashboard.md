@@ -2,7 +2,7 @@
 
 ## Main Website
 
-- Jerry: working on main website for OGM, using Massive Wiki tools
+- Jerry and Pete, working on OGM Mainsite, using Massive Wiki tools
 
 ## Managing Call Artifacts Better
 
@@ -44,6 +44,7 @@
 - some notes are in [[Lionsberg + OGM, 2021-04-01]]
 - Miro board
 - Harvestings from Workshop
+- [[What Does OGM Care About?]]
 
 ## Re-formatting Thursday Call
 calls:
