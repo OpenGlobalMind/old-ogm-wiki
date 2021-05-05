@@ -1,6 +1,8 @@
 # Appendix B: Cultures and Values Alignment
 
-(Preamble goes here)
+OGM and Lionsberg are coming into alignment, with shared cultures and values.  OGM Bootstrap will continue to expand, illuminate, and evolve our deeper and richer understanding of each point in this page.
+
+This Appendix is like agreeing to date: it offers broad agreement, with the expectation of deepening the meaning of the relationship, as it grows into a "marriage" of sorts between OGM Bootstrap and Lionsberg.
 
 - Both parties are in mutual receptivity and have established Alignment of common purpose and intent.
 - Both parties agree to abide by the collaboratively established guiding principles:
