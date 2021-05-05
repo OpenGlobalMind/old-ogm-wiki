@@ -13,7 +13,7 @@ jerrys-brain: tbd
 - Jerry to post this page as PDF to Stewards channel
 
 ## Agenda
-- touch on current state of [[OGM-Lionsberg MoU]]
+- touch on current state of [[Draft OGM-Lionsberg MoU from April-May 2021]]
 	- when / how to wrap
 - set up GC + OGM (Jerry, Charles, Pete) meetings / touchpoints
 - how to coordinate with Jamaica / OFC?

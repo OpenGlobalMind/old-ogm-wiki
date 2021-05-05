@@ -18,8 +18,8 @@
 - OGM members know about Lionsberg
 - OGM members know about [[Steward Ownership]] and the differences between it and alternate structures 
 - OGM members know about the difference between "OGM at large" and "OGM Foundation"
-- OGM members who want to have read and made comments (perhaps written, perhaps verbally on a call, or other ways) on [[OGM-Lionsberg MoU]]
-- Good ideas from OGM members have been reflected in the [[OGM-Lionsberg MoU]]
+- OGM members who want to have read and made comments (perhaps written, perhaps verbally on a call, or other ways) on [[Draft OGM-Lionsberg MoU from April-May 2021]]
+- Good ideas from OGM members have been reflected in the [[Draft OGM-Lionsberg MoU from April-May 2021]]
 - OGM members understand the timeline for [[Finalizing Lionsberg+OGM MoU]]
 - (implications for OGM)
 - (opportunities for OGMers in the new infrastructure)

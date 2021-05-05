@@ -1,5 +1,7 @@
 # OGM Onboarding 101
 
+#onboarding #faq #starting-with-OGM
+
 We have several communication  and coordination tools:
 
 - [CSC Mattermost](https://chat.collectivesensecommons.org)
