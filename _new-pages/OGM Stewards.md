@@ -1,0 +1,1 @@
+(let's discuss the interaction between stewardship and participation)
