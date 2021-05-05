@@ -12,6 +12,10 @@ Possible tools will include:
 - OGM Wiki
 - CSC Mattermost
 
+## Approach
+
+- Two weeks before the end of the Initial Sprint, we will hold a retrospective.
+
 ## Goals
 
 - Demonstrate good practices with the "OGM Bootstrap Operating Infrastructure" above
