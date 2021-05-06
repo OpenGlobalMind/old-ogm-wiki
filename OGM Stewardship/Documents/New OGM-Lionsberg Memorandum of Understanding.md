@@ -61,11 +61,11 @@ In such reports, OGM Bootstrap will provide documentation for transactions invol
 
 ### Intellectual Property
 
-The work, ideas, and knowledge generated through this relationship are intended for the public good and will be stewarded by _the nonprofit_ (TKTK - which organization is "the nonprofit"?). 
+The work, ideas, and knowledge generated through this relationship are intended for the public good and will be stewarded by OGM Bootstrap. 
 
 No intellectual property jointly developed may be exploited for the benefit of any individuals or unrelated for-profit projects without the prior written consent of the non-profit.
 
-If any person or entity has intellectual property they expect to be protected, a separate agreement shall be executed before such intellectual property is shared with the parties.
+If any person or entity has intellectual property they expect to be protected (in connection with this agreement), a separate agreement shall be executed (or it should have a clear indication of license) before such intellectual property is shared with the parties.
 
 ### General
 
