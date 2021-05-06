@@ -1,6 +1,6 @@
 # Draft OGM-Lionsberg MoU from April-May 2021
 
-_This MOU was drafted in April-ish 2021 by the OGM Stewards team at that time.  Its contents were moved to other documents, and this document is now superseded. Pete, Jerry, Judy, 2021-05-05_
+_This MOU was drafted in April-ish 2021 by the OGM Stewards team at that time.  Its contents were moved to other documents, and this document is now superseded. Pete, Jerry, Judy, 2021-05-05œ_
 
 ## Introduction
 
