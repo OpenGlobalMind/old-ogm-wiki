@@ -24,6 +24,9 @@ Possible tools will include:
     - OGM Bootstrap will facilitate completion of the [[Appendix B: Cultures and Value Alignment]]
     - OGM Bootstrap will facilitate the documentation of [OGM Structure](https://wiki.openglobalmind.com/ogm_structure/ogm_structure)
 - Develop [[OGM Fund]]
+	- structurally, probably a [[Donor-Advised Fund]]
     - prototype funding of fellowships and sovereigns
     - set up financial infrastructure as needed
+- Flesh out a "Generative Commons" Agreement
+- Execute Tranche 1 funding
 - Prepare for Tranche 2 funding
