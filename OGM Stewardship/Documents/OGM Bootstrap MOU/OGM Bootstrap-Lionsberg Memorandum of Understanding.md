@@ -1,4 +1,4 @@
-# New OGM-Lionsberg Memorandum of Understanding
+# OGM Bootstrap-Lionsberg Memorandum of Understanding
 
 ## Introduction
 
