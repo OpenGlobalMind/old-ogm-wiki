@@ -1,4 +1,4 @@
-# Appendix A: Slim, Fast Statement of Work
+# Appendix A - Sprint 1 Statement of Work
 
 ## Overview
 

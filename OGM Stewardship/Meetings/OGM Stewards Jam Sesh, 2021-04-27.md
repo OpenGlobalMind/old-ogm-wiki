@@ -46,7 +46,7 @@ _numbers give priority order_
 - (7) Check in on [[Quest - Opening up OGM]].
 - (8) What do we think about the new `[Quest]` namespace in CSC Mattermost? What do we think CSC thinks about it?
 - (9) Review [[Stewardship Dashboard]] items.
-- (deferred to work session) Work session on MOU / [[Appendix A - Slim, Fast SOW]] / Legal section documents.
+- (deferred to work session) Work session on MOU / [[Appendix A - Sprint 1 Statement of Work]] / Legal section documents.
     - 2 hours tomorrow at 11am PDT / 1900 London
 - (4) Handling scale ; decentralization
 

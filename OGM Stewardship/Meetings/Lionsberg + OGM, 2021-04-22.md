@@ -10,7 +10,7 @@ jerrys-brain: tbd
 
 ## Agenda
 
-- Present [[Appendix A - Slim, Fast SOW]].
+- Present [[Appendix A - Sprint 1 Statement of Work]].
     - get feedback
 - Review our [marked-up legal section]() (link redacted).
 - Ask Jordan about what _needs_ to be in the MOU and what can be in separate vision documents.
