@@ -1,4 +1,4 @@
-# Appendix C: Draft of Generative Commons Agreement
+# Appendix C - Draft of Generative Commons Agreement
 
 As with other Appendices to this Memorandum of Understanding between OGM Bootstrap and Lionsberg, the ideas here express our early alignment and understanding, and will be the subject of our attention so that they may be improved, deepened and propagated in ways that are useful to society as a whole. This is a satisfactory starting point. 
 

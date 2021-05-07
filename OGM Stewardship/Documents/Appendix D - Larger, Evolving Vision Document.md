@@ -1,4 +1,4 @@
-# Appendix C: Larger, Evolving Vision Document
+# Appendix D - Larger, Evolving Vision Document
 
 This appendix includes larger and longer vision thoughts that inform, but don't necessarily fit, into OGM Bootstrap's Initial Sprint.
 
