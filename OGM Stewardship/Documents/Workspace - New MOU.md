@@ -5,6 +5,7 @@
 - [[New OGM-Lionsberg Memorandum of Understanding]]
 - [[Appendix A - Slim, Fast SOW]]
 - [[Appendix B - Cultures and Values Alignment]]
+- [[Appendix C - Generative Commons Agreement]]
 - [[Appendix C - Larger, Evolving Vision Document]]
 
 ## Other Docs
