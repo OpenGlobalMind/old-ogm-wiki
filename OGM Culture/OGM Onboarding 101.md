@@ -1,5 +1,7 @@
 # OGM Onboarding 101
 
+Welcome aboard! 
+
 #onboarding #faq #starting-with-OGM
 
 We have several communication  and coordination tools:
