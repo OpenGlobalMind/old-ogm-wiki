@@ -44,7 +44,7 @@
 - some notes are in [[Lionsberg + OGM, 2021-04-01]]
 - Miro board
 - Harvestings from Workshop
-- [[What Does OGM Care About?]]
+- [[What Does OGM Care About]]
 
 ## Re-formatting Thursday Call
 calls:
