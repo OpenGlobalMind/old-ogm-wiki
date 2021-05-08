@@ -1,12 +1,12 @@
 # Appendix D - Larger, Evolving Vision Document
 
-This appendix includes larger and longer vision thoughts that inform, but don't necessarily fit, into OGM Bootstrap's Initial Sprint.
+This appendix includes larger and longer vision thoughts that inform, but don't necessarily fit, into OGM Bootstrap's Sprint 1.
 
-We expect that it will continue to evolve and inform our direction.
+We expect that this document will continue to evolve and inform our direction.
 
 ## Shared Goals
 
-(Some phase(s)) will propel OGM into a form that can receive grant funds, engage in prototyping and create engagements providing services to a variety of individuals and organizations.
+(Future phase(s)) will propel OGM into a form that can receive grant funds, engage in prototyping and create engagements providing services to a variety of individuals and organizations.
 
 The (TKTK phase) fiscal sponsorship will enable better OGM governance and stewardship, which lets [[OGM community members]] be assured that the technology and value that we create together will benefit society for the long term.
 
