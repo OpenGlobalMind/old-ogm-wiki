@@ -9,7 +9,7 @@ Coordination / collaboration infrastructure:
 
 ## State of Play, 2021-05-21
 
-- upcoming [Zoom call at 2021-05-26, 7am PDT](https://us02web.zoom.us/j/4154650256?pwd=Zm5DWGRJcmFmZGtBMmI1Wkx2WUQyZz09)
+- upcoming Zoom call at 2021-05-26, 7am PDT: [Generative Commons Gathering](https://www.catalist.network/event/1621532681242x445821844902379500)
 - started in discussion between the OGM stewardship group and Lionsberg, and encapsulates and advances several long-standing desires from all participants
 - community is just starting up, and is currently in convening mode
 - actively seeking more participants, ideas, experiences, knowledge, opinions, and passion
