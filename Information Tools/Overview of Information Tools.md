@@ -9,9 +9,16 @@ Discord
 Discourse
 Notion
 Obsidian
+GitJournal
 P6
 Stroll
 Roam
+
+Loom - Record and instantly share video messages of your screen, cam, or both. Faster than typing an email or meeting live.
+
+Descript - Make good videos and podcasts.
+
+Superhuman - The fastest email experience ever made.
 
 database
 email
