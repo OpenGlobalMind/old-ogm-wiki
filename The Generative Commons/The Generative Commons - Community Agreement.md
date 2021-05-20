@@ -1,5 +1,3 @@
-          
-
 # The Generative Commons - Community Agreement
 
 \[Community Name\] has entered an agreement to steward the ideas developed in and through its existence in The Generative Commons.
