@@ -11,7 +11,7 @@
 
 ### [Christine McDougall](https://au.linkedin.com/in/christinemcdougall)'s "Syntropic Enterprises"
 
-- "Syntropic World, a global community of practise dedicated to supporting Syntropic Enterprises to become business-as-usual."
+- "[Syntropic World](https://syntropic.world/), a global community of practise dedicated to supporting Syntropic Enterprises to become business-as-usual."
 - "The principles of Syntropic World have enabled diverse teams to co-create extraordinary outcomes entirely self managed and without a single human upset, all with their eyes cast on the 100 + year horizon. This includes tools such as Synergistic Accounting, where value is considered in 12 domains, and the Trust Manifesto, an enterprise architecture that gives sovereign choice in how we show up for the project or enterprise."
 
 ### Cory Doctorow interview
