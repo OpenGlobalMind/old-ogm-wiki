@@ -41,6 +41,16 @@ jerrys-brain: tbd
 - Flotilla Tools for Connectors
 - Peeragogy
 - Factr
+- WINfinity
+- Trove
+
+### Sovereigns in Discussion with Lionsberg
+- OGM Bootstrap
+- CICOLAB
+- Open Future Coalition
+- Collective Next
+- Massive Human Intelligence Project
+- Trove
 
 ### Other Seas / Galaxies
 
@@ -72,6 +82,11 @@ General disagreement about what "stewarding" is, and whether OGM Stewards have b
 - Trustee
 
 Many useful [Maori terms](https://bra.in/8jg32r) around this.
+
+Trudy / SKIP / Solutionista: [https://solutionista.com/pages/about-trudy](https://solutionista.com/pages/about-trudy)
+
+https://en.wikipedia.org/wiki/English_public_school_football_games
+> During the early modern era pupils, former pupils and teachers at English public schools developed and wrote down the first codes of football, most notably the Eton College (1815) and Aldenham school (1825) football rules. The best-known of these is rugby football (1845). British public schools football also directly influenced the rules of [Association football](https://en.wikipedia.org/wiki/English_public_school_football_games#Association_football).
 
 ## Zoom Chat
 
