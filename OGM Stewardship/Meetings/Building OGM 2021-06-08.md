@@ -1,3 +1,11 @@
+---
+category: Meeting
+meeting-series: Building OGM
+source-channel: tbd
+date: 2021-06-08
+recording-video: https://youtu.be/e5fcTM2SuHs
+jerrys-brain: tbd
+---
 # Building OGM 2021-06-08
 
 ## Agenda
