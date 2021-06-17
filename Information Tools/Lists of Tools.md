@@ -10,7 +10,7 @@ some of my favorite tools
 - Instant Messaging: Signal, Telegram (not WhatsApp)
 - Voip: Google Voice
 - Meeting scheduler (inbound): Calendly
-- Meeting scheduler (poll): starting to hate Doodle because of Outbrain ads, considering https://letsfind.app/
+- Meeting scheduler (poll): starting to hate Doodle because of Outbrain ads, considering https://letsfind.app/ (which turned out to be probably too clunky)
 - Project Management: Airtable and bespoke base designs (which are super easy to build)
 - Keeping Track of All Kinds of Stuff: Airtable
 - Transcript-Based Video Editing: Descript
