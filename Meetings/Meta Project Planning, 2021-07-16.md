@@ -1,3 +1,10 @@
+---
+category: Meeting
+meeting-series: ad hoc
+date: 2021-07-16
+recording-video: n/a
+jerrys-brain: tbd
+---
 # Meta Project Planning, 2021-07-16
 
 ## People

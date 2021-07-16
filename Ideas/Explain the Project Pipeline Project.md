@@ -1,6 +1,5 @@
 ---
-idea: Explain the Project Pipeline Project
-shepherd: Jerry Michalski
+shepherd: "[[Jerry Michalski]]"
 category: Idea
 ---
 # Explain the Project Pipeline Project
@@ -18,5 +17,5 @@ Using OGM Wiki, document the pipeline:
 
 Consider:
 
-- related projects
+- related projects (maybe a "see also" section and links to the other projects?)
 - tagging projects
