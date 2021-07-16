@@ -15,3 +15,8 @@ Using OGM Wiki, document the pipeline:
 1. a Project Plan is created
 1. graduate to from Ideas folder to Project folder
 1. graduate to a separate Project wiki
+
+Consider:
+
+- related projects
+- tagging projects

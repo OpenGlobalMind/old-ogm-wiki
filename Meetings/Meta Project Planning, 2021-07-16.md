@@ -14,6 +14,18 @@
 	- Project
 		- built from Project Template ([[Everything is a Project]])
 
+## Ideas Bucket (cf. icebox, backlog, great weird ideas, agile stories)
+
+- A way to see the dependency hierarchy of project plans
+- List of tasks that people can choose to tackle
+- Table view of .md file contents
+- Hashtag norms for labeling tasks, projects, etc. 
+
+## Challenges Bucket
+
+- very few people know how to use Massive Wiki
+- power tools are hard to use unless you're a sophisticated user
+
 ## Idea Bucket for This Meeting
 
 - "Pete's Cinematic Universe"
