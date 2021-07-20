@@ -7,6 +7,7 @@ This list is a starting point for what a sovereign ought to have:
 - web presence
 - persistent async messaging (e.g., chat channel, email list)
 - document library (e.g., wiki, Notion, Google Docs)
+- project management tools (e.g., wiki, Notion, Airtable, and others)
 - charter (mission / vision)
 - who we are (at least leadership, and contact info)
 - roles we need to fill
