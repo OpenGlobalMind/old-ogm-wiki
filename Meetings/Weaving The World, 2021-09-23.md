@@ -1,3 +1,10 @@
+---
+category: Meeting
+meeting-series: Weaving The World
+date: 2021-09-23
+recording-video: tbd
+jerrys-brain: tbd
+---
 # Weaving The World, 2021-09-23
 
 ## Topics
@@ -15,7 +22,7 @@
 - horses as leadership training
 	- push, pull, block
 	- Buck Brannaman
-		- YouTube video
+		- [Buck | trailer SUNDANCE 2011 - YouTube](https://www.youtube.com/watch?v=DCMm5uoZtXw)
 - The Press Conference
 
 ## Overview of Weaving The World
@@ -26,7 +33,7 @@ Funding through grants, what can we point to?
 
 Above ground:
 
-**a video podcast**
+**a video podcast** (Weaving The World)
 
 - pre-event
 - call
@@ -38,6 +45,7 @@ Below ground:
 Weaving the World is [[Feeding The Big Fungus]].
 
 Jerry's Brain
+
 - alone
 - at the fungus face
 - personal information loom
@@ -52,7 +60,10 @@ How can we reduce the friction to the usability?
 
 Something that's one step more complex than Instagram, so that millions of people can use it?
 
-Maps are what we create to make sense of the information that's there - a story or a dataset.  Create an experience.  Helps other people to get to the richer experience faster.  
+Pete's assertion: it's not simplicity that drives mass adoption, but utility, and in particular, social proof -- millions of other people already using it.
+
+Maps are what we create to make sense of the information that's there - a story or a dataset.  Create an experience.  Helps other people to get to the richer experience faster.
+
 Still have to learn - each individual - to have the experience.
 
 What if we are in a space of learning or creativity?
