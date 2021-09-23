@@ -2,7 +2,7 @@
 
 ## People
 
-Stacey Druss, Klaus Mager, Anne Penikis, Phil Kennedy, Peter Kaminski, Jerry Michalski
+[[Stacey Druss]], [[Klaus Mager]], [[Anne Penikis]], [[Phil Kennedy]], [[Peter Kaminski]], [[Jerry Michalski]]
 
 ## Topics
 
