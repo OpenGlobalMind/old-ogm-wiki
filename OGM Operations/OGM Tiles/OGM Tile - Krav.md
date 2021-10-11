@@ -26,6 +26,19 @@ Pete & TBD
 
 Automate process of turning fresh episode's raw files into more usable production artifacts. Raw files include video, audio and text. We know this project is done when it measurably improves the process of publishing calls, getting as close to full automation as practicable now.
 
+Inputs:
+
+- call recording artifacts (mp4, m4a, txt) in Zoom account
+
+Outputs:
+
+- video and episode metadata goes to YouTube Studio
+- audio and episode metadata goes to Anchor.fm
+- audio gets machine transcribed via one of Otter, AWS, GCP, Descript, etc. Highly desired to identify speakers by zoom name.
+- transcript, zoom chat, and call metadata go to the episode web page (web hosted on Google Sites)
+
+For parts that are not practicably automatable in this phase, create a text or markdown or Google Keep checklist for a human to finish.
+
 ## Resource Requirements
 
 _what (people, money, things) are needed to accomplish this project? where do they come from?_
@@ -36,8 +49,23 @@ _who are the people working on this project? who can I ask for more information?
 
 ## Approach
 
-1. Define the desired workflow
-2. 
+1. Define the desired workflow, including specific kinds of raw files and production artifacts.
+2. Choose hypothetical solutions for each part of the workflow.
+3. Test hypotheses.
+4. Build system, starting with long tentpoles.
+5. Integrate and create production pipeline.
+6. Create user and technical documentation.
+7. Document future potential enhancements and fixes.
+
+Build and use open source components.  Built components, integration, and documentation will be made open source.
+
+Build project in Python.  Maybe use serverless (e.g., AWS Lambda) for some/all deployments.
+
+Interview project team afterwards for a WtW episode.
+
+### Notes
+
+- need/able to use https://github.com/adasq/youtube-studio ?
 
 ## Workplan and Timeline
 
