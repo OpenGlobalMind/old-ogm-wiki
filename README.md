@@ -27,6 +27,8 @@ Ask Pete for help when you need it.
 - People - some of the people in OGM
 - Templates - pages or pieces of pages that help create particular kinds of pages
 
+There is also a [[Sandbox]] page if you want to try editing.
+
 ## OGM Wiki Conventions
 
 When creating a page, please put it into an appropriate top-level or sub-level directory.  If it's not obvious where to put a new page, or if you're using software that will automatically create pages, please point it into the `_new-pages` top-level directory.
