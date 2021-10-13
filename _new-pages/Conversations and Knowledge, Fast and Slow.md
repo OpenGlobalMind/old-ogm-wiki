@@ -11,7 +11,7 @@ page-history:
 ---
 # Conversations and Knowledge, Fast and Slow
 
-After an OGM Thursday check-in call ([2021-10-07 call in Jerry's Brain](https://bra.in/5jQnZm)) ([2021-10-07 call on YouTube recording](https://youtu.be/nLpyG_iqyN4)),
+After [[OGM Thursday, 2021-10-07]],
 
 [Pete wrote](https://chat.collectivesensecommons.org/agora/pl/krc9zk3ig7rmukhr3p5aggxw6h),
 
