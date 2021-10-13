@@ -11,7 +11,7 @@ page-history:
 ---
 # Conversations and Knowledge, Fast and Slow
 
-After [[OGM Thursday, 2021-10-07]],
+After [[Meetings/OGM Thursday, 2021-10-07]],
 
 [Pete wrote](https://chat.collectivesensecommons.org/agora/pl/krc9zk3ig7rmukhr3p5aggxw6h),
 
