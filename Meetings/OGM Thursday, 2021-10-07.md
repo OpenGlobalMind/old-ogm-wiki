@@ -8,4 +8,4 @@ jerrys-brain: https://bra.in/5jQnZm
 ---
 # OGM Thursday, 2021-10-07
 
-see also: [[Conversations/Conversations and Knowledge, Fast and Slow]]
+see also: [[/Conversations/Conversations and Knowledge, Fast and Slow]]
