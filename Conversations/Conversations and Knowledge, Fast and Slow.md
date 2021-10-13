@@ -43,7 +43,7 @@ Thanks Pete for these provocative thoughts. Lauren and Charles did some fantasti
 
 [Charles wrote](https://chat.collectivesensecommons.org/agora/pl/ora8nh5qxjyxfpmxghx3rwy37c),
 
- have plenty of thoughts on all this :slightly_smiling_face:
+ have plenty of thoughts on all this 🙂
  and a few protocols largely untested 
 
 i daresay the imperative is the DKR-NIC with IF sprinkled liberally
