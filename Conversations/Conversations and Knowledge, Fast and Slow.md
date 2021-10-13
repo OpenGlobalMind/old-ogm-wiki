@@ -54,7 +54,7 @@ dynamic knowledge repository  networked improvement community  interoperability 
 
 Very thought provoking conversation starting up here. I absolutely agree with ypou, Pete, when you say, " we would learn more and think more together, by doing it ourselves, rather than depending on an external specialist to do it for us". And lots of us are doing it in different ways. We only have to bring this collective eperience into our 'commons'. visual facilitation, as Ken writes, is a very powerful tool. The Positive Cartography process I am co-developing is based on using visual images to help people tell their stories - and doing it on Miro. Miro may not be the best platform for mapping relationships between ideas and perspectives, but it it easy to use (no big learning curve) and does the job sufficiently to start with. I can share some of our work in progress here - and later. For example, the photo I just oploaded as the Miro board seeded with photos for late September's Mapathon 21. And this past week, somehing similar for a workshop on Futures of Sustainable business with Norwegin entrepreneurs etc.
 
-![[Mapathon 21 Start Template.png]]
+![[/_attachments/Mapathon 21 Start Template.png]]
 
 I woiuld welcome co-creators and prototypers to make this 'mapping' process more effective. So I'll join your 'team of people who would like to learn how to use Miro and who are interested in mapping', Ken
 
