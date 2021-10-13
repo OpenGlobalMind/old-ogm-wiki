@@ -1,6 +1,17 @@
+---
+page-history: 
+  - 
+    author: tbd
+    date: tbd
+    summary: tbd
+  - 
+    author: Pete
+    date: 2021-10-12
+    summary: "page created from Mattermost posts"
+---
 # Conversations and Knowledge, Fast and Slow
 
-After the OGM Thursday check-in call ([2021-10-07 call in Jerry's Brain](https://bra.in/5jQnZm)) ([2021-10-07 call on YouTube recording](https://youtu.be/nLpyG_iqyN4)),
+After an OGM Thursday check-in call ([2021-10-07 call in Jerry's Brain](https://bra.in/5jQnZm)) ([2021-10-07 call on YouTube recording](https://youtu.be/nLpyG_iqyN4)),
 
 [Pete wrote](https://chat.collectivesensecommons.org/agora/pl/krc9zk3ig7rmukhr3p5aggxw6h),
 
