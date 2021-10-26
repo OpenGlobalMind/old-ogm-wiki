@@ -21,6 +21,7 @@ Need more information:
 - which speech transcription service to use?
 - define episode metadata
 - what to do about Google Sites not having an API?
+- should the script (or a separate script) move Zoom artifacts to trash?
 
 ## Roles and Responsibilities
 
