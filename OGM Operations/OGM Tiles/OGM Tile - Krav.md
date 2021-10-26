@@ -4,6 +4,24 @@
 
 Proposal drafting phase. Pair writing to create fundable project description. 
 
+### Update 2021-10-26
+
+[[Zapier]] has a Zoom-YouTube integration, which will watch for a new Zoom recording and post it to YouTube, unlisted.  Control of the metadata is okay but not great.  May or may not be useful.
+
+[[Google Sites]] apparently doesn't have an API for sites created on or after November 22, 2016: [Google Sites API](https://developers.google.com/sites)
+
+[Zoom API](https://marketplace.zoom.us/docs/api-reference/zoom-api/cloud-recording/) looks good.
+
+[YouTube Data API](https://developers.google.com/youtube/v3) looks okay, probably a little hard to use.  Quota limits will not allow more than 6 uploads per day, perhaps fewer. (See notes below for adasq/youtube-studio, it says it works around the quota.)
+
+Anchor.fm doesn't have an API, but someone kludged together a [Puppeteer script to do Anchor.fm uploads](https://github.com/Schrodinger-Hat/youtube-to-anchorfm/blob/main/upload-episode.js).
+
+Need more information:
+
+- which speech transcription service to use?
+- define episode metadata
+- what to do about Google Sites not having an API?
+
 ## Roles and Responsibilities
 
 ### Sponsor
