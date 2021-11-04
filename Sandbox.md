@@ -8,6 +8,6 @@ hello, this is Pete.
 
 This is Jerry wrestling for control. 
 
-Is this thing ON?? (Rob is editing this)
+Is this thing ON?? (Rob is editing this file)
 
 
