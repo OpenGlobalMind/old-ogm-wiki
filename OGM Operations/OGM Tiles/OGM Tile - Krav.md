@@ -23,6 +23,20 @@ Need more information:
 - what to do about Google Sites not having an API?
 - should the script (or a separate script) move Zoom artifacts to trash?
 
+#### Export from Descript
+
+- Buzzsprout
+- Captivate
+- Castos
+- eWebinar
+- Headliner
+- Hello Audio
+- Podcast.co
+- Restream
+- Transistor
+- VideoAsk
+- Wistia
+
 ## Roles and Responsibilities
 
 ### Sponsor
