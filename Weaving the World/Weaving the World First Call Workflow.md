@@ -40,7 +40,7 @@ _what will this project achieve? when you are done, how will you know?_
 - We will ready to have a [[composting call]] about the first episode.
 - We will have defined:
     - website structure, including where episode pages, and pages connected to a particular episode live
-- There will be links or embeds in the WtW Google Site that include the first episode pages.
+- There will be links or embeds in the Google Site that include the first episode pages.
 - All of which will set precedent for subsequent episodes.
 - There will be documentation that describes what we did and how to do it next time.
 
@@ -50,7 +50,9 @@ _what (people, money, things) are needed to accomplish this project? where do th
 
 ## People
 
-_who are the people working on this project? who can I ask for more information? how can I best get in touch with them?_
+- [[Jerry Michalski]]
+- [[Stacey Druss]]
+- [[Peter Kaminski]]
 
 ## Approach
 
