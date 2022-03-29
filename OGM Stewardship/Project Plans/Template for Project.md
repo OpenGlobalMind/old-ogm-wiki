@@ -10,7 +10,7 @@ _where is the project right now?_
 
 _who is handling the standard project roles, and what are they responsible for doing?_
 
-### Sponsor
+### Steward(s) / Customer / Sponsor
 
 _the person who requires the output of the project and has allocated the resources for it_
 
@@ -26,7 +26,7 @@ _the person responsible to the Sponsor for making sure the project is accomplish
 
 _people working on the project_
 
-## Goals
+## Output, Goals, Value Achieved
 
 _what will this project achieve? when you are done, how will you know?_
 
