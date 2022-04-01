@@ -1,6 +1,6 @@
+# Ukraine and Russia Nuggets (DRAFT)
 
-
-
+_also see [[Nuggets, Narratives, and Points of View]]_
 
 ### Russia/Putin is committing war crimes
 * targeting civilian buildings
@@ -28,7 +28,7 @@
 	* far-right groups excluded from their forces
 * Russia Negotiating Position
 	*  Russia ceases fire and withdraws
-	* Ukrainian "neutrality" without Nato
+	* Ukrainian "neutrality" without NATO
 	* Kyiv keeps its army but can't host foreign bases 
 	* Russian language gets legal status in Ukraine
 * Unstated Goals
@@ -40,8 +40,8 @@
 * What's most important to Putin
 	* afraid of Covid significantly (or even a targeted virus)
 	* amassed personal wealth so that is done
-	* Historical legacy - does not compare to Soviet leaders, but looks back to Czars ℗e-Soviet)
-	* 
+	* Historical legacy - does not compare to Soviet leaders, but looks back to Czars pre-Soviet)
+
 
 ### What was the state of Ukraine prior to invasion
 * Military buildup - "defensive" missiles
