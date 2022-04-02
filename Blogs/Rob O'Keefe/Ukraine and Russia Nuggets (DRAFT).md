@@ -7,7 +7,7 @@ _also see [[Nuggets, Narratives, and Points of View]]_
 * targeting nuclear plants
 * invading Ukraine at all
 
-### Putin is a Gambler (Takes Calculated Risks aggressively)
+### Putin Aggressively Pushes Beyond Norms
 * Chechnya (3 years after defeat goes back in)
 * Using Radiological weapons in London to kill dissident
 * Uses chemical weapons for assassination
