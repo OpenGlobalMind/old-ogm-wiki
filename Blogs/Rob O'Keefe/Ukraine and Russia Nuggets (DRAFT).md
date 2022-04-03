@@ -2,12 +2,18 @@
 
 _also see [[Nuggets, Narratives, and Points of View]]_
 
-### Russia/Putin is committing war crimes
+Note: This is just a TEST of using a format of a statement or assertion in **bold** with supporting statements underneath. The points about Russia or Putin are incomplete. 
+
+From an Obisidian/markdown point of view, there may be benefit in having each "nugget" in its own markdown file.
+
+FEEL FREE TO EDIT BELOW!!
+
+### Putin is committing war crimes
 * targeting civilian buildings
 * targeting nuclear plants
-* invading Ukraine at all
+* invading Ukraine at all, no matter what his justificaiton is
 
-### Putin Aggressively Pushes Beyond Norms
+### Putin Aggressively Pushes Beyond GeoPolitical Norms
 * Chechnya (3 years after defeat goes back in)
 * Using Radiological weapons in London to kill dissident
 * Uses chemical weapons for assassination
