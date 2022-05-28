@@ -2,6 +2,8 @@
 
 _see [[OGM Stewardship/Project Plans/Template for Project (How to Use)|Template for Project (How to Use)]] for notes and instructions_
 
+see [[Template for Project (How to Use)]]
+
 ## Status
 
 _where is the project right now?_
