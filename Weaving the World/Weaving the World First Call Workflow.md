@@ -1,18 +1,22 @@
-# (Name of Project Goes Here) Plan
+# Weaving the World First Call Workflow
 
-_see [[OGM Stewardship/Project Plans/Template for Project (How to Use)|Template for Project (How to Use)]] for notes and instructions_
+## Overview
 
-see [[Template for Project (How to Use)]]
+This is a project plan and workflow for the first call for [[Weaving the World]].
 
 ## Status
 
-_where is the project right now?_
+- [ ] Drafting this project plan
+- [ ] Jerry and Pete agreeing on the workflow elements
 
 ## Roles and Responsibilities
 
-_who is handling the standard project roles, and what are they responsible for doing?_
+- Sponsor: Jerry for WtW 
+- Project Manager
+- Lead
+- Team
 
-### Steward(s) / Customer / Sponsor
+### Sponsor
 
 _the person who requires the output of the project and has allocated the resources for it_
 
@@ -28,9 +32,17 @@ _the person responsible to the Sponsor for making sure the project is accomplish
 
 _people working on the project_
 
-## Output, Goals, Value Achieved
+## Goals
 
 _what will this project achieve? when you are done, how will you know?_
+
+- We will have a complete first episode.
+- We will ready to have a [[composting call]] about the first episode.
+- We will have defined:
+    - website structure, including where episode pages, and pages connected to a particular episode live
+- There will be links or embeds in the Google Site that include the first episode pages.
+- All of which will set precedent for subsequent episodes.
+- There will be documentation that describes what we did and how to do it next time.
 
 ## Resource Requirements
 
@@ -38,7 +50,9 @@ _what (people, money, things) are needed to accomplish this project? where do th
 
 ## People
 
-_who are the people working on this project? who can I ask for more information? how can I best get in touch with them?_
+- [[Jerry Michalski]]
+- [[Stacey Druss]]
+- [[Peter Kaminski]]
 
 ## Approach
 
@@ -51,4 +65,3 @@ _what are the specific tasks needed to accomplish our goals? when might they hap
 ## Communication Norms
 
 _how have the project participants agreed to stay in touch? what, where and how often are regular meetings? special ceremonies?_
-

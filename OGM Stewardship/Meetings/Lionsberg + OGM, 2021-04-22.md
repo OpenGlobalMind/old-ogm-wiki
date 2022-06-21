@@ -30,7 +30,7 @@ jerrys-brain: tbd
     - what are the hypotheses and questions _we_ are exploring / trying to solve
     - what are the hypotheses and questions _others in our networks_ are exploring / trying to solve
     - flotilla of sovereigns may be more attractive to funding partners (00:43)
-		- (note later: ref [[doughnut economics]])
+		- (note later: ref [[Doughnut Economics]])
 - new MOU structure (00:47)
     - short legal MOU, pragmatic fiscal sponsorship relationship
         - purposes of orgs, why we are aligning

@@ -1,0 +1,7 @@
+# Doughnut Economics
+
+> The Doughnut, or **Doughnut Economics**, is a visual framework for sustainable development – shaped like a doughnut or lifebelt –  combining the concept of planetary boundaries with the complementary concept of social boundaries.  The name derives from the shape of the diagram, i.e. a disc with a hole in the middle. The centre hole of the model depicts the proportion of people that lack access to life's essentials (healthcare, education, equity and so on) while the crust represents the ecological ceilings (planetary boundaries) that life depends on and must not be overshot. The diagram was developed by University of Oxford economist Kate Raworth in her 2012 Oxfam paper A Safe and Just Space for Humanity and elaborated upon in her 2017 book [[Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist]].
+>
+> The framework was proposed to regard the performance of an economy by the extent to which the needs of people are met without overshooting Earth's ecological ceiling. The main goal of the new model is to re-frame economic problems and set new goals. In this model, an economy is considered prosperous when all twelve social foundations are met without overshooting any of the nine ecological ceilings. This situation is represented by the area between the two rings, considered by its creator as the safe and just space for humanity.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Doughnut%20(economic%20model))
