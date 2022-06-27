@@ -10,6 +10,7 @@
 	-   Wiki Curator/Information Architect 
 -   Fundraising we've started: OGM is now a fiscal sponsee of Lionsberg, a 501(c)3 charity, which means we can solicit tax-free contributions. We are setting up that pitch and catcher's mitt (where and how to contribute) now. 
 -   Charter (mission / vision): This initial text from [[Ken Homer]]
+
 ### Mission
 Open Global Mind brings together theorists, practitioners, and other interested parties to explore and create ways for individuals, organizations, and societies to organize around resolving wicked messes in the service of a future where humanity and other forms of life can thrive for millions of years to come.
 
