@@ -1,6 +1,6 @@
 # Rel8 Key Questions
 - [[How Can Rel8 Appeal to Normal Citizens]]?
-- How Do Neighboring Projects Fit With Rel8?
+- [[How Do Neighboring Projects Fit With Rel8]]?
 - How Do We Bake Diversity into OGM and Rel8?
 - How to Crowdsource as Much of Rel8 as Possible
 	- How Do We Scope, Describe and Commission Tiles in the Mosaic?
