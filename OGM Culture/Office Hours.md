@@ -15,7 +15,7 @@ Ping Stacey <27openheart@gmail.com> or Pete <kaminski@istori.com> if you'd like 
 
 **Peter Kaminski**
 
-- Tuesdays 9pm UTC, 2pm PDT, 5pm EDT, 10pm BST, 11pm CEST, 11pm SAST, 7am AEST
+- Tuesdays 10pm UTC, 3pm PDT, 6pm EDT, 11pm BST, 12pm CEST, 12pm SAST, 8am AEST
 - 30-60 minutes
 - zoom: https://us02web.zoom.us/j/87236457100?pwd=F_P2RMN7315W2TOzzHtxoTPY5lQB9e.1
 - some calls are recorded for community benefit, based on discussion topics
