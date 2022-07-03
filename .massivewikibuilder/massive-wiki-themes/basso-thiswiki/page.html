@@ -7,17 +7,28 @@
     <title>{% if title != 'README' %}{{title}} - {% endif %}{{wiki_title}}</title>
     <link rel="stylesheet" href="/mwb-static/css/mystyles.css">
     <link rel="stylesheet" href="/mwb-static/css/markdown.css">
+    <link rel="stylesheet" href="/mwb-static/css/sidebar.css">
   </head>
   <body class="has-navbar-fixed-top">
     {% include '_navbar.html' %}
     <section class="section">
       <div class="container">
-        <div class="content markdown-body">
-        {{ markdown_body }}
-        </div>
+	<div class="columns">
+	  <div class="sidebar column is-one-fifth">
+            <div class="content markdown-body" style="border-right:1px black solid; padding-right:1em;">
+              {{ sidebar_body }}
+            </div>
+	  </div>
+	  <div class="column">
+            <div class="content markdown-body">
+              {{ markdown_body }}
+            </div>
+	  </div>
+	</div>
       </div>
     </section>
     {% include '_footer.html' %}
     <script>{% include '_javascript.html' %}</script>
+    <script src="https://hypothes.is/embed.js" async></script>
   </body>
 </html>

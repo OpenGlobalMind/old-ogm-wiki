@@ -1,5 +1,9 @@
 # Ukraine and Russia Nuggets (DRAFT)
 
+_a post in [[Rob's Blog by Rob O'Keefe]]_
+
+by [[Rob O'Keefe]]
+
 _also see [[Nuggets, Narratives, and Points of View]]_
 
 Note: This is just a TEST of using a format of a statement or assertion in **bold** with supporting statements underneath. The points about Russia or Putin are incomplete. 

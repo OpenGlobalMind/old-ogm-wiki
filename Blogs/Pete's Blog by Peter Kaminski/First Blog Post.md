@@ -1,4 +1,9 @@
-# Peter Kaminski, 2021-03-22
+# First Blog Post
+
+_a post in [[Pete's Blog by Peter Kaminski]]_
+
+by [[Peter Kaminski]], 2021-03-22
+
 ## OGM Wiki
 First blog post in OGM Wiki, first blog post in a Massive Wiki!  Starting a blog in this wiki is a one of the [[Great Weird Ideas]].
 
