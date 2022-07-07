@@ -30,7 +30,7 @@ Ping [Stacey](27openheart@gmail.com) or [Pete](kaminski@istori.com) if you'd lik
 
  - topic: Massive Wikis, wikis in general; other topics as participants wish
  - host: Peter Kaminski
-- Wednesdays 4pm UTC, 9am PDT, 12pm EDT, 5pm BST, 6pm CEST, 6pm SAST, 2am AEST 
+- Wednesdays 4pm UTC (9am PDT, 12pm EDT, 5pm BST, 6pm CEST, 6pm SAST, 2am AEST)
 - 60 minutes
 - https://us02web.zoom.us/j/84876942036?pwd=amVrWVBmRW45RDBoTGE0bmFIQzFKUT09
 - some calls are recorded, based on discussion topics, see recordings: [Massive Wiki Playlist](https://youtube.com/playlist?list=PLADGyQqAcmirDUOGu6Dl_6ps0bp4P45T9) (youtube.com)
