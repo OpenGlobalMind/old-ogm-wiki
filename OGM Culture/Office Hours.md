@@ -1,17 +1,12 @@
 # Office Hours
 
-Stacey and Pete are starting an experiment of having "office hours", regular times each week that you can come to talk about with them about whatever.
+Some of us are starting an experiment of having "office hours", regular times each week that you can come to talk with us about whatever.
 
-Ping [Stacey](27openheart@gmail.com) or [Pete](kaminski@istori.com) if you'd like to set up your own office hours and have them included here.
+Ping [Pete](kaminski@istori.com) if you'd like to set up your own office hours and have them included here.
+
+Also see the [Plex Weekly Calendar](https://plex.collectivesensecommons.org/calendar/).
 
 ## Person-based Office Hours (any topic)
-
-**Stacey Druss**
-
-- Mondays 11am EDT (8am PDT)
-- 40 minutes
-- zoom: https://us05web.zoom.us/j/4248358008?pwd=WldWV1duS0Q2c2draldkd3duYU9QQT09
-- some calls are recorded for community benefit, based on discussion topics
 
 **Peter Kaminski**
 
@@ -19,6 +14,10 @@ Ping [Stacey](27openheart@gmail.com) or [Pete](kaminski@istori.com) if you'd lik
 - 30-60 minutes
 - zoom: https://us02web.zoom.us/j/87236457100?pwd=F_P2RMN7315W2TOzzHtxoTPY5lQB9e.1
 - some calls are recorded for community benefit, based on discussion topics
+
+**Grace Rachmany (DAO and Tokenomics)**
+
+Grace regularly holds office hours on Thursdays (DAO Hours) which are in an AMA format.  [Thursday mornings at 8:30 AM UTC](https://us02web.zoom.us/meeting/register/tZEkc-6rqzspG9XYlHPsBwZG9i-5gYfhpmVV) and [Thursday evenings 19:30 UTC](https://us02web.zoom.us/meeting/register/tZAtf-qspz4uE92HY5e3inRJvXxW8d0gimAx). Anywhere from 0 to 4 people show up and it's in AMA format, so feel free to sign up and drop in.
 
 ## Person-based Office Hours (rotating topics, per schedule)
 
