@@ -36,6 +36,8 @@ Pete would save this page from HackMD straight into the Meetings folder on OGM W
 
 If there were interesting sections, they could be made into separate pages, linked to the meeting page.
 
+_See [Jerry Michalski and Peter Kaminski, 2022-08-10](https://wiki.openglobalmind.com/meetings/jerry_michalski_and_peter_kaminski,_2022-08-10)_
+
 There are different times and ways to make them into separate pages:
 
 - immediately, on review
@@ -44,6 +46,8 @@ There are different times and ways to make them into separate pages:
 - semi-automatically in Obsidian, with e.g., "Extract current selection"
 
 ### Example: Pete's Personal, Private Wiki
+
+_didn't cover this one :-)_
 
 ## Wikis
 
